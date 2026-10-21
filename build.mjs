@@ -1,7 +1,7 @@
 import fs from 'fs';
 const SITE_URL = process.env.SITE_URL || 'https://directorio-ia.example.com'; // TODO: dominio real
 const SITE = 'Directorio IA para Creadores';
-const NEW = ['opusclip','submagic','suno','udio','luma','pika','turboscribe','castmagic','ideogram','captions','spotter','heygen'];
+const NEW = ['socialblade','1of10','google-trends','morningfame','keywordseverywhere','mubert','artlist','spotify-creators','buzzsprout','kit','substack','typefully','klingai','freepik','adobe-express'];
 const cats = JSON.parse(fs.readFileSync('src/categories.json','utf8'));
 const plats = {youtube:'YouTube',tiktok:'TikTok y Shorts',instagram:'Instagram y Reels',podcasts:'Podcasts',newsletters:'Newsletters'};
 const priceL = {gratis:'Gratis',freemium:'Freemium','de-pago':'De pago','ver-sitio':'Ver sitio'};
@@ -27,7 +27,7 @@ const byS=Object.fromEntries(tools.map(t=>[t.slug,t]));
 const card=t=>`<article class="card" data-name="${esc((t.name+' '+t.desc).toLowerCase())}" data-plats="${t.platforms.join(' ')}"><h3><a href="/herramientas/${t.slug}/">${esc(t.name)}</a></h3><p>${esc(t.desc)}</p><div class="tags"><span class="price ${t.pricing}">${priceL[t.pricing]}</span>${t.platforms.map(p=>`<span>${plats[p]}</span>`).join('')}</div></article>`;
 const grid=l=>`<div class="grid">${l.map(card).join('')}</div>`;
 const itemList=(name,l)=>({'@context':'https://schema.org','@type':'ItemList',name,numberOfItems:l.length,itemListElement:l.map((t,i)=>({'@type':'ListItem',position:i+1,url:`${SITE_URL}/herramientas/${t.slug}/`,name:t.name}))});
-const newsletter=`<section class="news" id="newsletter"><h2>Recibe las nuevas herramientas cada semana</h2><p>Un correo corto con lo mejor de IA para creadores. Sin spam.</p>
+const newsletter=`<section class="news" id="newsletter"><h2>Un correo a la semana para crear más rápido</h2><p>Cada semana, las herramientas de IA nuevas y más útiles para creadores, explicadas en 5 minutos de lectura. Gratis y sin spam; date de baja cuando quieras.</p>
 <!-- /api/subscribe: función de Vercel que usa Resend -->
 <form method="post" action="/api/subscribe" class="subs"><label class="sr" for="email">Correo electrónico</label><input id="email" type="email" name="email" required placeholder="tu@correo.com"><input type="text" name="website" tabindex="-1" autocomplete="off" class="sr" aria-hidden="true"><button>Suscribirme</button></form><p class="msg" aria-live="polite"></p></section>`;
 const platBar=`<div class="pills" role="group" aria-label="Filtrar por plataforma"><button class="pill on" data-p="">Todas</button>${Object.entries(plats).map(([k,v])=>`<button class="pill" data-p="${k}">${v}</button>`).join('')}</div>`;
@@ -35,12 +35,12 @@ const platBar=`<div class="pills" role="group" aria-label="Filtrar por plataform
 const newT=NEW.map(s=>byS[s]).filter(Boolean);
 page('/',{title:`${SITE}: herramientas de IA para YouTube, TikTok, podcasts y más`,desc:`Directorio en español de ${tools.length} herramientas de IA para creadores de contenido: guiones, edición, clips, voz, subtítulos, miniaturas y más.`,
  ld:[{'@context':'https://schema.org','@type':'WebSite',name:SITE,url:SITE_URL,inLanguage:'es-MX'},itemList('Herramientas de IA para creadores',tools)],
- body:`<section class="hero"><h1>Las mejores herramientas de IA para creadores de contenido</h1><p>Encuentra la herramienta ideal para tus videos, shorts, podcasts y newsletters. ${tools.length} herramientas en ${cats.length} categorías.</p>
+ body:`<section class="hero"><h1>Crea más y mejor contenido con IA, sin perder horas buscando</h1><p>Elegimos y explicamos en español las herramientas de IA que de verdad ayudan a creadores de YouTube, TikTok, Instagram, podcasts y newsletters. ${tools.length} herramientas en ${cats.length} categorías, con enlaces oficiales verificados.</p>
 <input id="q" type="search" placeholder="Busca: subtítulos, voz, miniaturas…" aria-label="Buscar herramientas"></section>
-<section id="categorias"><h2>Categorías</h2><div class="cats">${cats.map(c=>`<a class="cat" href="/categorias/${c.slug}/"><span>${c.icon}</span><b>${esc(c.name)}</b><small>${tools.filter(t=>t.categories.includes(c.slug)).length} herramientas</small></a>`).join('')}</div></section>
-<section><h2>Por plataforma</h2><p class="platlinks">${Object.entries(plats).map(([k,v])=>`<a href="/plataformas/${k}/">${v} →</a>`).join('')}</p></section>
-<section><h2>Nuevas y destacadas</h2>${grid(newT.slice(0,6))}<p><a href="/nuevas/">Ver todas las nuevas →</a></p></section>
-<section id="todas"><h2>Todas las herramientas</h2>${platBar}${grid(tools)}<p class="empty" hidden>No encontramos resultados.</p></section>${newsletter}`});
+<section id="categorias"><h2>Explora por tarea</h2><p class="intro">¿Qué necesitas hacer hoy? Escoge una tarea y ve directo a las herramientas que la resuelven.</p><div class="cats">${cats.map(c=>`<a class="cat" href="/categorias/${c.slug}/"><span>${c.icon}</span><b>${esc(c.name)}</b><small>${tools.filter(t=>t.categories.includes(c.slug)).length} herramientas</small></a>`).join('')}</div></section>
+<section><h2>Explora por plataforma</h2><p class="intro">Herramientas pensadas para el formato y el público de cada red.</p><p class="platlinks">${Object.entries(plats).map(([k,v])=>`<a href="/plataformas/${k}/">${v} →</a>`).join('')}</p></section>
+<section><h2>Recién agregadas</h2><p class="intro">Lo último que sumamos al directorio, revisado por nosotros.</p>${grid(newT.slice(0,6))}<p><a href="/nuevas/">Ver todas las nuevas →</a></p></section>
+<section id="todas"><h2>Todas las herramientas</h2><p class="intro">Filtra por plataforma o usa el buscador de arriba.</p>${platBar}${grid(tools)}<p class="empty" hidden>No encontramos resultados.</p></section>${newsletter}`});
 for(const c of cats){const l=tools.filter(t=>t.categories.includes(c.slug));
  page(`/categorias/${c.slug}/`,{title:`${c.name}: herramientas de IA | ${SITE}`,desc:`${c.desc} ${l.length} herramientas seleccionadas.`,ld:[itemList(c.name,l)],crumbs:[['Inicio','/'],['Categorías','/#categorias'],[c.name,`/categorias/${c.slug}/`]],
  body:`<h1>${c.icon} ${esc(c.name)}</h1><p class="lead">${esc(c.desc)}</p>${platBar}${grid(l)}<p class="empty" hidden>No hay herramientas para esta plataforma.</p>${newsletter}`});}

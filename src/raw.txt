@@ -60,3 +60,18 @@ tubebuddy|TubeBuddy|https://www.tubebuddy.com|seo-youtube|youtube|freemium|Exten
 spotter|Spotter Studio|https://www.spotterstudio.com|seo-youtube,guiones|youtube|de-pago|Ideas y análisis de rendimiento para creadores de YouTube.
 looka|Looka|https://looka.com|branding|youtube,instagram|de-pago|Diseña logos e identidad de marca con IA.
 brandmark|Brandmark|https://brandmark.io|branding|youtube,instagram|de-pago|Generador de logos con IA.
+socialblade|Social Blade|https://socialblade.com|seo-youtube|youtube,tiktok,instagram|freemium|Estadísticas públicas y proyecciones de crecimiento de canales de YouTube, TikTok, Instagram y más.
+1of10|1of10|https://1of10.com|seo-youtube,guiones|youtube|de-pago|Encuentra videos “outlier” que superan el promedio de su canal para inspirar ideas y títulos.
+google-trends|Google Trends|https://trends.google.com/trends/|seo-youtube,guiones|youtube,tiktok,podcasts,newsletters|gratis|Herramienta de Google para ver qué se busca y cómo cambia el interés, con filtro de búsquedas en YouTube.
+morningfame|Morningfame|https://morningfa.me|seo-youtube|youtube|de-pago|Analítica y recomendaciones para canales pequeños y medianos de YouTube.
+keywordseverywhere|Keywords Everywhere|https://keywordseverywhere.com|seo-youtube|youtube|de-pago|Extensión que muestra volumen de búsqueda y palabras clave relacionadas en Google y YouTube.
+mubert|Mubert|https://mubert.com|musica|youtube,tiktok,podcasts|freemium|Genera música con IA libre de regalías para videos, streams y podcasts.
+artlist|Artlist|https://artlist.io|musica|youtube,tiktok,instagram|de-pago|Catálogo de música, efectos y stock con licencia para creadores, con herramientas de IA.
+spotify-creators|Spotify for Creators|https://creators.spotify.com|podcasts|podcasts|gratis|Plataforma de Spotify para publicar, alojar y monetizar podcasts en audio y video.
+buzzsprout|Buzzsprout|https://www.buzzsprout.com|podcasts|podcasts|freemium|Hosting de podcasts con distribución a directorios y transcripción opcional con IA.
+kit|Kit|https://kit.com|newsletters|newsletters|freemium|Plataforma de email marketing para creadores (antes ConvertKit), con automatizaciones.
+substack|Substack|https://substack.com|newsletters,podcasts|newsletters,podcasts|gratis|Publica tu newsletter y podcast y monetiza con suscripciones de pago.
+typefully|Typefully|https://typefully.com|redes|instagram,newsletters|freemium|Escribe, programa y analiza publicaciones para X, LinkedIn, Threads y más, con asistente de IA.
+klingai|Kling AI|https://klingai.com|avatares|tiktok,instagram,youtube|freemium|Generador de video con IA a partir de texto o imágenes.
+freepik|Freepik|https://www.freepik.com|miniaturas,branding|youtube,instagram|freemium|Banco de recursos gráficos con generador de imágenes y herramientas de IA.
+adobe-express|Adobe Express|https://www.adobe.com/express/|branding,miniaturas,redes|instagram,tiktok,youtube|freemium|Diseño rápido de posts, miniaturas y logos con plantillas e IA de Adobe Firefly.

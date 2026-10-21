@@ -14,7 +14,7 @@
    "podcasts",
    "newsletters"
   ],
-  "pricing": "freemium",
+  "pricing": "ver-sitio",
   "desc": "Asistente conversacional de OpenAI para generar ideas, guiones, títulos y textos."
  },
  {
@@ -30,7 +30,7 @@
    "podcasts",
    "newsletters"
   ],
-  "pricing": "freemium",
+  "pricing": "ver-sitio",
   "desc": "Asistente de Anthropic, útil para redactar guiones largos, resúmenes y newsletters."
  },
  {
@@ -45,7 +45,7 @@
    "tiktok",
    "instagram"
   ],
-  "pricing": "freemium",
+  "pricing": "ver-sitio",
   "desc": "Asistente de Google para lluvia de ideas, investigación y borradores de guiones."
  },
  {
@@ -60,7 +60,7 @@
    "podcasts",
    "newsletters"
   ],
-  "pricing": "freemium",
+  "pricing": "ver-sitio",
   "desc": "Buscador con IA que cita fuentes; ideal para investigar temas antes de grabar."
  },
  {
@@ -216,7 +216,7 @@
   "platforms": [
    "youtube"
   ],
-  "pricing": "freemium",
+  "pricing": "ver-sitio",
   "desc": "Editor de escritorio con herramientas de IA integradas."
  },
  {
@@ -321,7 +321,7 @@
   "platforms": [
    "youtube"
   ],
-  "pricing": "freemium",
+  "pricing": "ver-sitio",
   "desc": "Generador de voces en off para videos y presentaciones."
  },
  {
@@ -336,7 +336,7 @@
    "podcasts",
    "youtube"
   ],
-  "pricing": "freemium",
+  "pricing": "ver-sitio",
   "desc": "Mejora la voz grabada y elimina ruido con un clic (Enhance Speech)."
  },
  {
@@ -378,7 +378,7 @@
    "youtube",
    "podcasts"
   ],
-  "pricing": "freemium",
+  "pricing": "ver-sitio",
   "desc": "Separa voces e instrumentos de cualquier pista de audio."
  },
  {
@@ -408,7 +408,7 @@
    "podcasts",
    "newsletters"
   ],
-  "pricing": "de-pago",
+  "pricing": "ver-sitio",
   "desc": "Convierte episodios en notas, resúmenes, posts y newsletters."
  },
  {
@@ -492,7 +492,7 @@
    "youtube",
    "podcasts"
   ],
-  "pricing": "freemium",
+  "pricing": "ver-sitio",
   "desc": "Transcripción rápida de audio y video basada en Whisper."
  },
  {
@@ -507,7 +507,7 @@
    "youtube",
    "instagram"
   ],
-  "pricing": "de-pago",
+  "pricing": "ver-sitio",
   "desc": "Generador de imágenes de alta calidad a partir de texto."
  },
  {
@@ -521,7 +521,7 @@
    "youtube",
    "instagram"
   ],
-  "pricing": "freemium",
+  "pricing": "ver-sitio",
   "desc": "Generación de imágenes y assets visuales con IA."
  },
  {
@@ -536,7 +536,7 @@
    "youtube",
    "instagram"
   ],
-  "pricing": "freemium",
+  "pricing": "ver-sitio",
   "desc": "Generador de imágenes destacado por renderizar texto legible."
  },
  {
@@ -551,7 +551,7 @@
    "youtube",
    "instagram"
   ],
-  "pricing": "freemium",
+  "pricing": "ver-sitio",
   "desc": "IA generativa de Adobe para imágenes y efectos de texto."
  },
  {
@@ -596,7 +596,7 @@
    "youtube",
    "instagram"
   ],
-  "pricing": "freemium",
+  "pricing": "ver-sitio",
   "desc": "Elimina el fondo de imágenes automáticamente."
  },
  {
@@ -625,8 +625,8 @@
   "platforms": [
    "youtube"
   ],
-  "pricing": "freemium",
-  "desc": "Videos con presentadores virtuales a partir de texto."
+  "pricing": "ver-sitio",
+  "desc": "Videos con presentadores virtuales (avatares) a partir de texto, en más de 100 idiomas."
  },
  {
   "slug": "did",
@@ -639,7 +639,7 @@
    "youtube",
    "tiktok"
   ],
-  "pricing": "freemium",
+  "pricing": "ver-sitio",
   "desc": "Anima fotos y crea avatares parlantes."
  },
  {
@@ -714,7 +714,7 @@
    "youtube",
    "tiktok"
   ],
-  "pricing": "freemium",
+  "pricing": "ver-sitio",
   "desc": "Generación de música con IA."
  },
  {
@@ -731,7 +731,7 @@
    "podcasts"
   ],
   "pricing": "de-pago",
-  "desc": "Biblioteca de música y efectos sin problemas de copyright."
+  "desc": "Biblioteca de música y efectos con licencia para creadores (suscripción, con prueba gratis)."
  },
  {
   "slug": "soundraw",
@@ -744,7 +744,7 @@
    "youtube",
    "tiktok"
   ],
-  "pricing": "de-pago",
+  "pricing": "ver-sitio",
   "desc": "Música generada con IA libre de regalías y personalizable."
  },
  {
@@ -814,7 +814,7 @@
    "tiktok"
   ],
   "pricing": "de-pago",
-  "desc": "Gestión y programación de redes sociales con OwlyWriter AI."
+  "desc": "Gestión y programación de redes sociales con asistente de IA para redactar publicaciones."
  },
  {
   "slug": "later",
@@ -882,7 +882,7 @@
   "platforms": [
    "youtube"
   ],
-  "pricing": "de-pago",
+  "pricing": "ver-sitio",
   "desc": "Ideas y análisis de rendimiento para creadores de YouTube."
  },
  {
@@ -896,7 +896,7 @@
    "youtube",
    "instagram"
   ],
-  "pricing": "de-pago",
+  "pricing": "ver-sitio",
   "desc": "Diseña logos e identidad de marca con IA."
  },
  {
@@ -910,7 +910,224 @@
    "youtube",
    "instagram"
   ],
-  "pricing": "de-pago",
+  "pricing": "ver-sitio",
   "desc": "Generador de logos con IA."
+ },
+ {
+  "slug": "socialblade",
+  "name": "Social Blade",
+  "url": "https://socialblade.com",
+  "categories": [
+   "seo-youtube"
+  ],
+  "platforms": [
+   "youtube",
+   "tiktok",
+   "instagram"
+  ],
+  "pricing": "ver-sitio",
+  "desc": "Estadísticas públicas y proyecciones de crecimiento de canales de YouTube, TikTok, Instagram y más."
+ },
+ {
+  "slug": "1of10",
+  "name": "1of10",
+  "url": "https://1of10.com",
+  "categories": [
+   "seo-youtube",
+   "guiones"
+  ],
+  "platforms": [
+   "youtube"
+  ],
+  "pricing": "freemium",
+  "desc": "Encuentra videos “outlier” que superan el promedio de su canal para inspirar ideas y títulos."
+ },
+ {
+  "slug": "google-trends",
+  "name": "Google Trends",
+  "url": "https://trends.google.com/trends/",
+  "categories": [
+   "seo-youtube",
+   "guiones"
+  ],
+  "platforms": [
+   "youtube",
+   "tiktok",
+   "podcasts",
+   "newsletters"
+  ],
+  "pricing": "gratis",
+  "desc": "Herramienta de Google para ver qué se busca y cómo cambia el interés, con filtro de búsquedas en YouTube."
+ },
+ {
+  "slug": "morningfame",
+  "name": "Morningfame",
+  "url": "https://morningfa.me",
+  "categories": [
+   "seo-youtube"
+  ],
+  "platforms": [
+   "youtube"
+  ],
+  "pricing": "ver-sitio",
+  "desc": "Analítica y recomendaciones para canales pequeños y medianos de YouTube."
+ },
+ {
+  "slug": "keywordseverywhere",
+  "name": "Keywords Everywhere",
+  "url": "https://keywordseverywhere.com",
+  "categories": [
+   "seo-youtube"
+  ],
+  "platforms": [
+   "youtube"
+  ],
+  "pricing": "ver-sitio",
+  "desc": "Extensión que muestra volumen de búsqueda y palabras clave relacionadas en Google y YouTube."
+ },
+ {
+  "slug": "mubert",
+  "name": "Mubert",
+  "url": "https://mubert.com",
+  "categories": [
+   "musica"
+  ],
+  "platforms": [
+   "youtube",
+   "tiktok",
+   "podcasts"
+  ],
+  "pricing": "freemium",
+  "desc": "Genera música con IA libre de regalías para videos, streams y podcasts."
+ },
+ {
+  "slug": "artlist",
+  "name": "Artlist",
+  "url": "https://artlist.io",
+  "categories": [
+   "musica"
+  ],
+  "platforms": [
+   "youtube",
+   "tiktok",
+   "instagram"
+  ],
+  "pricing": "ver-sitio",
+  "desc": "Catálogo de música, efectos y stock con licencia para creadores, con herramientas de IA."
+ },
+ {
+  "slug": "spotify-creators",
+  "name": "Spotify for Creators",
+  "url": "https://creators.spotify.com",
+  "categories": [
+   "podcasts"
+  ],
+  "platforms": [
+   "podcasts"
+  ],
+  "pricing": "gratis",
+  "desc": "Plataforma de Spotify para publicar, alojar y monetizar podcasts en audio y video."
+ },
+ {
+  "slug": "buzzsprout",
+  "name": "Buzzsprout",
+  "url": "https://www.buzzsprout.com",
+  "categories": [
+   "podcasts"
+  ],
+  "platforms": [
+   "podcasts"
+  ],
+  "pricing": "freemium",
+  "desc": "Hosting de podcasts con distribución a directorios y transcripción opcional con IA."
+ },
+ {
+  "slug": "kit",
+  "name": "Kit",
+  "url": "https://kit.com",
+  "categories": [
+   "newsletters"
+  ],
+  "platforms": [
+   "newsletters"
+  ],
+  "pricing": "freemium",
+  "desc": "Plataforma de email marketing para creadores (antes ConvertKit), con automatizaciones."
+ },
+ {
+  "slug": "substack",
+  "name": "Substack",
+  "url": "https://substack.com",
+  "categories": [
+   "newsletters",
+   "podcasts"
+  ],
+  "platforms": [
+   "newsletters",
+   "podcasts"
+  ],
+  "pricing": "gratis",
+  "desc": "Publica tu newsletter y podcast y monetiza con suscripciones de pago."
+ },
+ {
+  "slug": "typefully",
+  "name": "Typefully",
+  "url": "https://typefully.com",
+  "categories": [
+   "redes"
+  ],
+  "platforms": [
+   "instagram",
+   "newsletters"
+  ],
+  "pricing": "ver-sitio",
+  "desc": "Escribe, programa y analiza publicaciones para X, LinkedIn, Threads y más, con asistente de IA."
+ },
+ {
+  "slug": "klingai",
+  "name": "Kling AI",
+  "url": "https://klingai.com",
+  "categories": [
+   "avatares"
+  ],
+  "platforms": [
+   "tiktok",
+   "instagram",
+   "youtube"
+  ],
+  "pricing": "freemium",
+  "desc": "Generador de video con IA a partir de texto o imágenes."
+ },
+ {
+  "slug": "freepik",
+  "name": "Freepik",
+  "url": "https://www.freepik.com",
+  "categories": [
+   "miniaturas",
+   "branding"
+  ],
+  "platforms": [
+   "youtube",
+   "instagram"
+  ],
+  "pricing": "freemium",
+  "desc": "Banco de recursos gráficos con generador de imágenes y herramientas de IA."
+ },
+ {
+  "slug": "adobe-express",
+  "name": "Adobe Express",
+  "url": "https://www.adobe.com/express/",
+  "categories": [
+   "branding",
+   "miniaturas",
+   "redes"
+  ],
+  "platforms": [
+   "instagram",
+   "tiktok",
+   "youtube"
+  ],
+  "pricing": "ver-sitio",
+  "desc": "Diseño rápido de posts, miniaturas y logos con plantillas e IA de Adobe Firefly."
  }
 ]
