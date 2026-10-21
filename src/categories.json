@@ -1,13 +1,106 @@
-[{"slug":"guiones","icon":"✍️","name":"Guiones e ideas","desc":"Genera ideas, títulos y guiones para tus videos y episodios."},
-{"slug":"edicion","icon":"🎬","name":"Edición de video","desc":"Edita videos más rápido con funciones de IA."},
-{"slug":"clips","icon":"✂️","name":"Clips cortos y Shorts","desc":"Convierte videos largos en clips verticales para Shorts, Reels y TikTok."},
-{"slug":"voz","icon":"🎙️","name":"Voz y audio","desc":"Texto a voz, clonación de voz y limpieza de audio."},
-{"slug":"podcasts","icon":"🎧","name":"Podcasts","desc":"Graba, edita y transcribe tus podcasts."},
-{"slug":"subtitulos","icon":"💬","name":"Subtítulos y transcripción","desc":"Subtítulos automáticos y transcripciones precisas."},
-{"slug":"miniaturas","icon":"🖼️","name":"Miniaturas e imágenes","desc":"Crea miniaturas e imágenes llamativas con IA."},
-{"slug":"avatares","icon":"🤖","name":"Avatares y video con IA","desc":"Presentadores virtuales y video generado por IA."},
-{"slug":"musica","icon":"🎵","name":"Música y efectos","desc":"Música, efectos y separación de pistas."},
-{"slug":"newsletters","icon":"📰","name":"Newsletters y escritura","desc":"Escribe y envía newsletters y textos con ayuda de IA."},
-{"slug":"redes","icon":"📱","name":"Redes sociales","desc":"Programación de publicaciones, captions y hashtags."},
-{"slug":"seo-youtube","icon":"📈","name":"SEO y analítica para YouTube","desc":"Palabras clave, títulos y análisis para crecer en YouTube."},
-{"slug":"branding","icon":"🎨","name":"Branding y diseño","desc":"Logos, identidad visual y diseño de marca."}]
+[
+ {
+  "slug": "guiones",
+  "icon": "✍️",
+  "name": "Guiones e ideas",
+  "desc": "Genera ideas, títulos y guiones para tus videos y episodios.",
+  "name_en": "Scripts & Ideas",
+  "desc_en": "Generate ideas, titles, and scripts for your videos and episodes."
+ },
+ {
+  "slug": "edicion",
+  "icon": "🎬",
+  "name": "Edición de video",
+  "desc": "Edita videos más rápido con funciones de IA.",
+  "name_en": "Video Editing",
+  "desc_en": "Edit videos faster with AI features."
+ },
+ {
+  "slug": "clips",
+  "icon": "✂️",
+  "name": "Clips cortos y Shorts",
+  "desc": "Convierte videos largos en clips verticales para Shorts, Reels y TikTok.",
+  "name_en": "Short Clips & Shorts",
+  "desc_en": "Turn long videos into vertical clips for Shorts, Reels, and TikTok."
+ },
+ {
+  "slug": "voz",
+  "icon": "🎙️",
+  "name": "Voz y audio",
+  "desc": "Texto a voz, clonación de voz y limpieza de audio.",
+  "name_en": "Voice & Audio",
+  "desc_en": "Text-to-speech, voice cloning, and audio cleanup."
+ },
+ {
+  "slug": "podcasts",
+  "icon": "🎧",
+  "name": "Podcasts",
+  "desc": "Graba, edita y transcribe tus podcasts.",
+  "name_en": "Podcasts",
+  "desc_en": "Record, edit, and transcribe your podcast."
+ },
+ {
+  "slug": "subtitulos",
+  "icon": "💬",
+  "name": "Subtítulos y transcripción",
+  "desc": "Subtítulos automáticos y transcripciones precisas.",
+  "name_en": "Captions & Transcription",
+  "desc_en": "Automatic captions and accurate transcripts."
+ },
+ {
+  "slug": "miniaturas",
+  "icon": "🖼️",
+  "name": "Miniaturas e imágenes",
+  "desc": "Crea miniaturas e imágenes llamativas con IA.",
+  "name_en": "Thumbnails & Images",
+  "desc_en": "Create eye-catching thumbnails and images with AI."
+ },
+ {
+  "slug": "avatares",
+  "icon": "🤖",
+  "name": "Avatares y video con IA",
+  "desc": "Presentadores virtuales y video generado por IA.",
+  "name_en": "AI Avatars & Video",
+  "desc_en": "Virtual presenters and AI-generated video."
+ },
+ {
+  "slug": "musica",
+  "icon": "🎵",
+  "name": "Música y efectos",
+  "desc": "Música, efectos y separación de pistas.",
+  "name_en": "Music & Sound Effects",
+  "desc_en": "Music, sound effects, and stem separation."
+ },
+ {
+  "slug": "newsletters",
+  "icon": "📰",
+  "name": "Newsletters y escritura",
+  "desc": "Escribe y envía newsletters y textos con ayuda de IA.",
+  "name_en": "Newsletters & Writing",
+  "desc_en": "Write and send newsletters and copy with AI help."
+ },
+ {
+  "slug": "redes",
+  "icon": "📱",
+  "name": "Redes sociales",
+  "desc": "Programación de publicaciones, captions y hashtags.",
+  "name_en": "Social Media",
+  "desc_en": "Post scheduling, captions, and hashtags."
+ },
+ {
+  "slug": "seo-youtube",
+  "icon": "📈",
+  "name": "SEO y analítica para YouTube",
+  "desc": "Palabras clave, títulos y análisis para crecer en YouTube.",
+  "name_en": "YouTube SEO & Analytics",
+  "desc_en": "Keywords, titles, and analytics to grow on YouTube."
+ },
+ {
+  "slug": "branding",
+  "icon": "🎨",
+  "name": "Branding y diseño",
+  "desc": "Logos, identidad visual y diseño de marca.",
+  "name_en": "Branding & Design",
+  "desc_en": "Logos, visual identity, and brand design."
+ }
+]
