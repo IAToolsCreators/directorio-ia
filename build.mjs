@@ -28,8 +28,8 @@ const card=t=>`<article class="card" data-name="${esc((t.name+' '+t.desc).toLowe
 const grid=l=>`<div class="grid">${l.map(card).join('')}</div>`;
 const itemList=(name,l)=>({'@context':'https://schema.org','@type':'ItemList',name,numberOfItems:l.length,itemListElement:l.map((t,i)=>({'@type':'ListItem',position:i+1,url:`${SITE_URL}/herramientas/${t.slug}/`,name:t.name}))});
 const newsletter=`<section class="news" id="newsletter"><h2>Recibe las nuevas herramientas cada semana</h2><p>Un correo corto con lo mejor de IA para creadores. Sin spam.</p>
-<!-- TODO: implementar /api/subscribe con Resend (API key en variable de entorno, nunca en el código) -->
-<form method="post" action="/api/subscribe" class="subs"><label class="sr" for="email">Correo electrónico</label><input id="email" type="email" name="email" required placeholder="tu@correo.com"><button>Suscribirme</button></form><p class="msg" aria-live="polite"></p></section>`;
+<!-- /api/subscribe: función de Vercel que usa Resend -->
+<form method="post" action="/api/subscribe" class="subs"><label class="sr" for="email">Correo electrónico</label><input id="email" type="email" name="email" required placeholder="tu@correo.com"><input type="text" name="website" tabindex="-1" autocomplete="off" class="sr" aria-hidden="true"><button>Suscribirme</button></form><p class="msg" aria-live="polite"></p></section>`;
 const platBar=`<div class="pills" role="group" aria-label="Filtrar por plataforma"><button class="pill on" data-p="">Todas</button>${Object.entries(plats).map(([k,v])=>`<button class="pill" data-p="${k}">${v}</button>`).join('')}</div>`;
 // Home
 const newT=NEW.map(s=>byS[s]).filter(Boolean);
