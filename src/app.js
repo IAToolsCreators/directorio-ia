@@ -1,0 +1,5 @@
+const q=document.getElementById('q');let plat='';
+function apply(){const v=(q?.value||'').toLowerCase().trim();document.querySelectorAll('.pills ~ .grid, #todas .grid').forEach(g=>{let n=0;g.querySelectorAll('.card').forEach(c=>{const ok=(!v||c.dataset.name.includes(v))&&(!plat||c.dataset.plats.split(' ').includes(plat));c.hidden=!ok;if(ok)n++});const e=g.parentElement.querySelector('.empty');if(e)e.hidden=n>0});}
+q?.addEventListener('input',()=>{apply();if(q.value)document.getElementById('todas').scrollIntoView({behavior:'smooth'})});
+document.querySelectorAll('.pill').forEach(b=>b.onclick=()=>{plat=b.dataset.p;document.querySelectorAll('.pill').forEach(x=>x.classList.toggle('on',x===b));apply()});
+document.querySelectorAll('.subs').forEach(f=>f.onsubmit=async e=>{e.preventDefault();const m=f.parentElement.querySelector('.msg');try{const r=await fetch(f.action,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({email:f.email.value})});m.textContent=r.ok?'¡Listo! Revisa tu correo.':'El newsletter estará disponible muy pronto.'}catch{m.textContent='El newsletter estará disponible muy pronto.'}});

@@ -1,0 +1,13 @@
+[{"slug":"guiones","icon":"✍️","name":"Guiones e ideas","desc":"Genera ideas, títulos y guiones para tus videos y episodios."},
+{"slug":"edicion","icon":"🎬","name":"Edición de video","desc":"Edita videos más rápido con funciones de IA."},
+{"slug":"clips","icon":"✂️","name":"Clips cortos y Shorts","desc":"Convierte videos largos en clips verticales para Shorts, Reels y TikTok."},
+{"slug":"voz","icon":"🎙️","name":"Voz y audio","desc":"Texto a voz, clonación de voz y limpieza de audio."},
+{"slug":"podcasts","icon":"🎧","name":"Podcasts","desc":"Graba, edita y transcribe tus podcasts."},
+{"slug":"subtitulos","icon":"💬","name":"Subtítulos y transcripción","desc":"Subtítulos automáticos y transcripciones precisas."},
+{"slug":"miniaturas","icon":"🖼️","name":"Miniaturas e imágenes","desc":"Crea miniaturas e imágenes llamativas con IA."},
+{"slug":"avatares","icon":"🤖","name":"Avatares y video con IA","desc":"Presentadores virtuales y video generado por IA."},
+{"slug":"musica","icon":"🎵","name":"Música y efectos","desc":"Música, efectos y separación de pistas."},
+{"slug":"newsletters","icon":"📰","name":"Newsletters y escritura","desc":"Escribe y envía newsletters y textos con ayuda de IA."},
+{"slug":"redes","icon":"📱","name":"Redes sociales","desc":"Programación de publicaciones, captions y hashtags."},
+{"slug":"seo-youtube","icon":"📈","name":"SEO y analítica para YouTube","desc":"Palabras clave, títulos y análisis para crecer en YouTube."},
+{"slug":"branding","icon":"🎨","name":"Branding y diseño","desc":"Logos, identidad visual y diseño de marca."}]

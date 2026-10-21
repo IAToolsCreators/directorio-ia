@@ -1,0 +1,62 @@
+chatgpt|ChatGPT|https://chatgpt.com|guiones,newsletters|youtube,tiktok,instagram,podcasts,newsletters|freemium|Asistente conversacional de OpenAI para generar ideas, guiones, títulos y textos.
+claude|Claude|https://claude.ai|guiones,newsletters|youtube,podcasts,newsletters|freemium|Asistente de Anthropic, útil para redactar guiones largos, resúmenes y newsletters.
+gemini|Gemini|https://gemini.google.com|guiones|youtube,tiktok,instagram|freemium|Asistente de Google para lluvia de ideas, investigación y borradores de guiones.
+perplexity|Perplexity|https://www.perplexity.ai|guiones|youtube,podcasts,newsletters|freemium|Buscador con IA que cita fuentes; ideal para investigar temas antes de grabar.
+jasper|Jasper|https://www.jasper.ai|guiones,newsletters,redes|newsletters,instagram|de-pago|Plataforma de escritura con IA enfocada en marketing y voz de marca.
+copyai|Copy.ai|https://www.copy.ai|guiones,redes|instagram,tiktok,newsletters|freemium|Generador de textos de marketing, captions y descripciones.
+capcut|CapCut|https://www.capcut.com|edicion,clips,subtitulos|tiktok,instagram,youtube|freemium|Editor de video con funciones de IA: subtítulos automáticos, recorte y efectos.
+descript|Descript|https://www.descript.com|edicion,podcasts,subtitulos|youtube,podcasts|freemium|Edita video y audio editando el texto de la transcripción.
+runway|Runway|https://runwayml.com|edicion,avatares|youtube,tiktok,instagram|freemium|Suite de video generativo y herramientas de edición con IA.
+veed|VEED|https://www.veed.io|edicion,subtitulos|youtube,tiktok,instagram|freemium|Editor de video en el navegador con subtítulos y herramientas de IA.
+kapwing|Kapwing|https://www.kapwing.com|edicion,clips,subtitulos|youtube,tiktok,instagram|freemium|Editor colaborativo en línea con funciones de IA para redes.
+invideo|InVideo AI|https://invideo.io|edicion,avatares|youtube,tiktok|freemium|Crea videos a partir de un texto o guion usando IA.
+pictory|Pictory|https://pictory.ai|edicion,clips|youtube|de-pago|Convierte textos y artículos largos en videos cortos.
+filmora|Wondershare Filmora|https://filmora.wondershare.com|edicion|youtube|freemium|Editor de escritorio con herramientas de IA integradas.
+opusclip|OpusClip|https://www.opus.pro|clips|tiktok,instagram,youtube|freemium|Extrae automáticamente los mejores momentos de videos largos como clips verticales.
+vizard|Vizard|https://vizard.ai|clips,subtitulos|tiktok,instagram,youtube|freemium|Convierte videos largos en clips cortos con subtítulos.
+klap|Klap|https://klap.app|clips|tiktok,instagram,youtube|de-pago|Genera shorts virales a partir de videos de YouTube.
+submagic|Submagic|https://www.submagic.co|clips,subtitulos|tiktok,instagram,youtube|de-pago|Subtítulos animados estilo viral y edición rápida para clips cortos.
+munch|Munch|https://www.getmunch.com|clips|tiktok,instagram,youtube|de-pago|Repurposing de video largo a clips con análisis de tendencias.
+elevenlabs|ElevenLabs|https://elevenlabs.io|voz|youtube,tiktok,podcasts|freemium|Texto a voz realista, clonación de voz y doblaje a otros idiomas.
+murf|Murf AI|https://murf.ai|voz|youtube|freemium|Generador de voces en off para videos y presentaciones.
+adobepodcast|Adobe Podcast|https://podcast.adobe.com|voz,podcasts|podcasts,youtube|freemium|Mejora la voz grabada y elimina ruido con un clic (Enhance Speech).
+krisp|Krisp|https://krisp.ai|voz|podcasts|freemium|Cancelación de ruido con IA en tiempo real.
+auphonic|Auphonic|https://auphonic.com|voz,podcasts|podcasts|freemium|Postproducción automática de audio: nivelación, ruido y loudness.
+lalalai|LALAL.AI|https://www.lalal.ai|voz,musica|youtube,podcasts|freemium|Separa voces e instrumentos de cualquier pista de audio.
+riverside|Riverside|https://riverside.fm|podcasts,clips|podcasts,youtube|freemium|Graba podcasts y video en alta calidad remota, con transcripción y clips con IA.
+castmagic|Castmagic|https://www.castmagic.io|podcasts,newsletters|podcasts,newsletters|de-pago|Convierte episodios en notas, resúmenes, posts y newsletters.
+podcastle|Podcastle|https://podcastle.ai|podcasts,voz|podcasts|freemium|Grabación, edición y mejora de audio para podcasts.
+otter|Otter.ai|https://otter.ai|subtitulos,podcasts|podcasts|freemium|Transcripción automática de reuniones y conversaciones.
+whisper|Whisper (OpenAI)|https://github.com/openai/whisper|subtitulos|youtube,podcasts|gratis|Modelo de código abierto para transcripción multilingüe.
+rev|Rev|https://www.rev.com|subtitulos|youtube,podcasts|de-pago|Transcripción y subtítulos con IA y revisión humana.
+happyscribe|Happy Scribe|https://www.happyscribe.com|subtitulos|youtube,podcasts|freemium|Transcripción y subtítulos en más de 100 idiomas.
+turboscribe|TurboScribe|https://turboscribe.ai|subtitulos|youtube,podcasts|freemium|Transcripción rápida de audio y video basada en Whisper.
+midjourney|Midjourney|https://www.midjourney.com|miniaturas,branding|youtube,instagram|de-pago|Generador de imágenes de alta calidad a partir de texto.
+leonardo|Leonardo.Ai|https://leonardo.ai|miniaturas|youtube,instagram|freemium|Generación de imágenes y assets visuales con IA.
+ideogram|Ideogram|https://ideogram.ai|miniaturas,branding|youtube,instagram|freemium|Generador de imágenes destacado por renderizar texto legible.
+firefly|Adobe Firefly|https://firefly.adobe.com|miniaturas,branding|youtube,instagram|freemium|IA generativa de Adobe para imágenes y efectos de texto.
+canva|Canva|https://www.canva.com|miniaturas,branding,redes|youtube,instagram,tiktok|freemium|Diseño gráfico fácil con funciones de IA (Magic Studio).
+photoroom|Photoroom|https://www.photoroom.com|miniaturas|instagram,youtube|freemium|Quita fondos y crea fotos de producto con IA.
+removebg|remove.bg|https://www.remove.bg|miniaturas|youtube,instagram|freemium|Elimina el fondo de imágenes automáticamente.
+heygen|HeyGen|https://www.heygen.com|avatares,voz|youtube,tiktok,instagram|freemium|Avatares con IA y traducción de video con sincronización de labios.
+synthesia|Synthesia|https://www.synthesia.io|avatares|youtube|freemium|Videos con presentadores virtuales a partir de texto.
+did|D-ID|https://www.d-id.com|avatares|youtube,tiktok|freemium|Anima fotos y crea avatares parlantes.
+captions|Captions|https://www.captions.ai|avatares,subtitulos,edicion|tiktok,instagram,youtube|freemium|App para creadores: subtítulos, edición y avatares con IA.
+pika|Pika|https://pika.art|avatares|tiktok,instagram|freemium|Generación de video a partir de texto o imagen.
+luma|Luma Dream Machine|https://lumalabs.ai|avatares|tiktok,instagram,youtube|freemium|Generador de video realista a partir de texto e imágenes.
+suno|Suno|https://suno.com|musica|youtube,tiktok,podcasts|freemium|Crea canciones completas con IA a partir de una descripción.
+udio|Udio|https://www.udio.com|musica|youtube,tiktok|freemium|Generación de música con IA.
+epidemic|Epidemic Sound|https://www.epidemicsound.com|musica|youtube,tiktok,instagram,podcasts|de-pago|Biblioteca de música y efectos sin problemas de copyright.
+soundraw|Soundraw|https://soundraw.io|musica|youtube,tiktok|de-pago|Música generada con IA libre de regalías y personalizable.
+beehiiv|beehiiv|https://www.beehiiv.com|newsletters|newsletters|freemium|Plataforma de newsletters con herramientas de escritura con IA y crecimiento.
+grammarly|Grammarly|https://www.grammarly.com|newsletters|newsletters|freemium|Corrector y asistente de escritura con IA.
+notion|Notion AI|https://www.notion.com|guiones,newsletters|newsletters,youtube|freemium|Espacio de trabajo con IA para planear contenido y redactar.
+buffer|Buffer|https://buffer.com|redes|instagram,tiktok|freemium|Programación de publicaciones con asistente de IA para captions.
+hootsuite|Hootsuite|https://www.hootsuite.com|redes|instagram,tiktok|de-pago|Gestión y programación de redes sociales con OwlyWriter AI.
+later|Later|https://later.com|redes|instagram,tiktok|de-pago|Planificador visual para Instagram y TikTok con captions con IA.
+metricool|Metricool|https://metricool.com|redes|instagram,tiktok,youtube|freemium|Planifica, publica y analiza tus redes en un solo lugar.
+vidiq|vidIQ|https://vidiq.com|seo-youtube|youtube|freemium|Ideas, palabras clave y analítica con IA para crecer en YouTube.
+tubebuddy|TubeBuddy|https://www.tubebuddy.com|seo-youtube|youtube|freemium|Extensión para optimizar SEO, miniaturas y pruebas A/B en YouTube.
+spotter|Spotter Studio|https://www.spotterstudio.com|seo-youtube,guiones|youtube|de-pago|Ideas y análisis de rendimiento para creadores de YouTube.
+looka|Looka|https://looka.com|branding|youtube,instagram|de-pago|Diseña logos e identidad de marca con IA.
+brandmark|Brandmark|https://brandmark.io|branding|youtube,instagram|de-pago|Generador de logos con IA.

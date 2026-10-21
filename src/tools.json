@@ -1,0 +1,916 @@
+[
+ {
+  "slug": "chatgpt",
+  "name": "ChatGPT",
+  "url": "https://chatgpt.com",
+  "categories": [
+   "guiones",
+   "newsletters"
+  ],
+  "platforms": [
+   "youtube",
+   "tiktok",
+   "instagram",
+   "podcasts",
+   "newsletters"
+  ],
+  "pricing": "freemium",
+  "desc": "Asistente conversacional de OpenAI para generar ideas, guiones, títulos y textos."
+ },
+ {
+  "slug": "claude",
+  "name": "Claude",
+  "url": "https://claude.ai",
+  "categories": [
+   "guiones",
+   "newsletters"
+  ],
+  "platforms": [
+   "youtube",
+   "podcasts",
+   "newsletters"
+  ],
+  "pricing": "freemium",
+  "desc": "Asistente de Anthropic, útil para redactar guiones largos, resúmenes y newsletters."
+ },
+ {
+  "slug": "gemini",
+  "name": "Gemini",
+  "url": "https://gemini.google.com",
+  "categories": [
+   "guiones"
+  ],
+  "platforms": [
+   "youtube",
+   "tiktok",
+   "instagram"
+  ],
+  "pricing": "freemium",
+  "desc": "Asistente de Google para lluvia de ideas, investigación y borradores de guiones."
+ },
+ {
+  "slug": "perplexity",
+  "name": "Perplexity",
+  "url": "https://www.perplexity.ai",
+  "categories": [
+   "guiones"
+  ],
+  "platforms": [
+   "youtube",
+   "podcasts",
+   "newsletters"
+  ],
+  "pricing": "freemium",
+  "desc": "Buscador con IA que cita fuentes; ideal para investigar temas antes de grabar."
+ },
+ {
+  "slug": "jasper",
+  "name": "Jasper",
+  "url": "https://www.jasper.ai",
+  "categories": [
+   "guiones",
+   "newsletters",
+   "redes"
+  ],
+  "platforms": [
+   "newsletters",
+   "instagram"
+  ],
+  "pricing": "de-pago",
+  "desc": "Plataforma de escritura con IA enfocada en marketing y voz de marca."
+ },
+ {
+  "slug": "copyai",
+  "name": "Copy.ai",
+  "url": "https://www.copy.ai",
+  "categories": [
+   "guiones",
+   "redes"
+  ],
+  "platforms": [
+   "instagram",
+   "tiktok",
+   "newsletters"
+  ],
+  "pricing": "freemium",
+  "desc": "Generador de textos de marketing, captions y descripciones."
+ },
+ {
+  "slug": "capcut",
+  "name": "CapCut",
+  "url": "https://www.capcut.com",
+  "categories": [
+   "edicion",
+   "clips",
+   "subtitulos"
+  ],
+  "platforms": [
+   "tiktok",
+   "instagram",
+   "youtube"
+  ],
+  "pricing": "freemium",
+  "desc": "Editor de video con funciones de IA: subtítulos automáticos, recorte y efectos."
+ },
+ {
+  "slug": "descript",
+  "name": "Descript",
+  "url": "https://www.descript.com",
+  "categories": [
+   "edicion",
+   "podcasts",
+   "subtitulos"
+  ],
+  "platforms": [
+   "youtube",
+   "podcasts"
+  ],
+  "pricing": "freemium",
+  "desc": "Edita video y audio editando el texto de la transcripción."
+ },
+ {
+  "slug": "runway",
+  "name": "Runway",
+  "url": "https://runwayml.com",
+  "categories": [
+   "edicion",
+   "avatares"
+  ],
+  "platforms": [
+   "youtube",
+   "tiktok",
+   "instagram"
+  ],
+  "pricing": "freemium",
+  "desc": "Suite de video generativo y herramientas de edición con IA."
+ },
+ {
+  "slug": "veed",
+  "name": "VEED",
+  "url": "https://www.veed.io",
+  "categories": [
+   "edicion",
+   "subtitulos"
+  ],
+  "platforms": [
+   "youtube",
+   "tiktok",
+   "instagram"
+  ],
+  "pricing": "freemium",
+  "desc": "Editor de video en el navegador con subtítulos y herramientas de IA."
+ },
+ {
+  "slug": "kapwing",
+  "name": "Kapwing",
+  "url": "https://www.kapwing.com",
+  "categories": [
+   "edicion",
+   "clips",
+   "subtitulos"
+  ],
+  "platforms": [
+   "youtube",
+   "tiktok",
+   "instagram"
+  ],
+  "pricing": "freemium",
+  "desc": "Editor colaborativo en línea con funciones de IA para redes."
+ },
+ {
+  "slug": "invideo",
+  "name": "InVideo AI",
+  "url": "https://invideo.io",
+  "categories": [
+   "edicion",
+   "avatares"
+  ],
+  "platforms": [
+   "youtube",
+   "tiktok"
+  ],
+  "pricing": "freemium",
+  "desc": "Crea videos a partir de un texto o guion usando IA."
+ },
+ {
+  "slug": "pictory",
+  "name": "Pictory",
+  "url": "https://pictory.ai",
+  "categories": [
+   "edicion",
+   "clips"
+  ],
+  "platforms": [
+   "youtube"
+  ],
+  "pricing": "de-pago",
+  "desc": "Convierte textos y artículos largos en videos cortos."
+ },
+ {
+  "slug": "filmora",
+  "name": "Wondershare Filmora",
+  "url": "https://filmora.wondershare.com",
+  "categories": [
+   "edicion"
+  ],
+  "platforms": [
+   "youtube"
+  ],
+  "pricing": "freemium",
+  "desc": "Editor de escritorio con herramientas de IA integradas."
+ },
+ {
+  "slug": "opusclip",
+  "name": "OpusClip",
+  "url": "https://www.opus.pro",
+  "categories": [
+   "clips"
+  ],
+  "platforms": [
+   "tiktok",
+   "instagram",
+   "youtube"
+  ],
+  "pricing": "freemium",
+  "desc": "Extrae automáticamente los mejores momentos de videos largos como clips verticales."
+ },
+ {
+  "slug": "vizard",
+  "name": "Vizard",
+  "url": "https://vizard.ai",
+  "categories": [
+   "clips",
+   "subtitulos"
+  ],
+  "platforms": [
+   "tiktok",
+   "instagram",
+   "youtube"
+  ],
+  "pricing": "freemium",
+  "desc": "Convierte videos largos en clips cortos con subtítulos."
+ },
+ {
+  "slug": "klap",
+  "name": "Klap",
+  "url": "https://klap.app",
+  "categories": [
+   "clips"
+  ],
+  "platforms": [
+   "tiktok",
+   "instagram",
+   "youtube"
+  ],
+  "pricing": "de-pago",
+  "desc": "Genera shorts virales a partir de videos de YouTube."
+ },
+ {
+  "slug": "submagic",
+  "name": "Submagic",
+  "url": "https://www.submagic.co",
+  "categories": [
+   "clips",
+   "subtitulos"
+  ],
+  "platforms": [
+   "tiktok",
+   "instagram",
+   "youtube"
+  ],
+  "pricing": "de-pago",
+  "desc": "Subtítulos animados estilo viral y edición rápida para clips cortos."
+ },
+ {
+  "slug": "munch",
+  "name": "Munch",
+  "url": "https://www.getmunch.com",
+  "categories": [
+   "clips"
+  ],
+  "platforms": [
+   "tiktok",
+   "instagram",
+   "youtube"
+  ],
+  "pricing": "de-pago",
+  "desc": "Repurposing de video largo a clips con análisis de tendencias."
+ },
+ {
+  "slug": "elevenlabs",
+  "name": "ElevenLabs",
+  "url": "https://elevenlabs.io",
+  "categories": [
+   "voz"
+  ],
+  "platforms": [
+   "youtube",
+   "tiktok",
+   "podcasts"
+  ],
+  "pricing": "freemium",
+  "desc": "Texto a voz realista, clonación de voz y doblaje a otros idiomas."
+ },
+ {
+  "slug": "murf",
+  "name": "Murf AI",
+  "url": "https://murf.ai",
+  "categories": [
+   "voz"
+  ],
+  "platforms": [
+   "youtube"
+  ],
+  "pricing": "freemium",
+  "desc": "Generador de voces en off para videos y presentaciones."
+ },
+ {
+  "slug": "adobepodcast",
+  "name": "Adobe Podcast",
+  "url": "https://podcast.adobe.com",
+  "categories": [
+   "voz",
+   "podcasts"
+  ],
+  "platforms": [
+   "podcasts",
+   "youtube"
+  ],
+  "pricing": "freemium",
+  "desc": "Mejora la voz grabada y elimina ruido con un clic (Enhance Speech)."
+ },
+ {
+  "slug": "krisp",
+  "name": "Krisp",
+  "url": "https://krisp.ai",
+  "categories": [
+   "voz"
+  ],
+  "platforms": [
+   "podcasts"
+  ],
+  "pricing": "freemium",
+  "desc": "Cancelación de ruido con IA en tiempo real."
+ },
+ {
+  "slug": "auphonic",
+  "name": "Auphonic",
+  "url": "https://auphonic.com",
+  "categories": [
+   "voz",
+   "podcasts"
+  ],
+  "platforms": [
+   "podcasts"
+  ],
+  "pricing": "freemium",
+  "desc": "Postproducción automática de audio: nivelación, ruido y loudness."
+ },
+ {
+  "slug": "lalalai",
+  "name": "LALAL.AI",
+  "url": "https://www.lalal.ai",
+  "categories": [
+   "voz",
+   "musica"
+  ],
+  "platforms": [
+   "youtube",
+   "podcasts"
+  ],
+  "pricing": "freemium",
+  "desc": "Separa voces e instrumentos de cualquier pista de audio."
+ },
+ {
+  "slug": "riverside",
+  "name": "Riverside",
+  "url": "https://riverside.fm",
+  "categories": [
+   "podcasts",
+   "clips"
+  ],
+  "platforms": [
+   "podcasts",
+   "youtube"
+  ],
+  "pricing": "freemium",
+  "desc": "Graba podcasts y video en alta calidad remota, con transcripción y clips con IA."
+ },
+ {
+  "slug": "castmagic",
+  "name": "Castmagic",
+  "url": "https://www.castmagic.io",
+  "categories": [
+   "podcasts",
+   "newsletters"
+  ],
+  "platforms": [
+   "podcasts",
+   "newsletters"
+  ],
+  "pricing": "de-pago",
+  "desc": "Convierte episodios en notas, resúmenes, posts y newsletters."
+ },
+ {
+  "slug": "podcastle",
+  "name": "Podcastle",
+  "url": "https://podcastle.ai",
+  "categories": [
+   "podcasts",
+   "voz"
+  ],
+  "platforms": [
+   "podcasts"
+  ],
+  "pricing": "freemium",
+  "desc": "Grabación, edición y mejora de audio para podcasts."
+ },
+ {
+  "slug": "otter",
+  "name": "Otter.ai",
+  "url": "https://otter.ai",
+  "categories": [
+   "subtitulos",
+   "podcasts"
+  ],
+  "platforms": [
+   "podcasts"
+  ],
+  "pricing": "freemium",
+  "desc": "Transcripción automática de reuniones y conversaciones."
+ },
+ {
+  "slug": "whisper",
+  "name": "Whisper (OpenAI)",
+  "url": "https://github.com/openai/whisper",
+  "categories": [
+   "subtitulos"
+  ],
+  "platforms": [
+   "youtube",
+   "podcasts"
+  ],
+  "pricing": "gratis",
+  "desc": "Modelo de código abierto para transcripción multilingüe."
+ },
+ {
+  "slug": "rev",
+  "name": "Rev",
+  "url": "https://www.rev.com",
+  "categories": [
+   "subtitulos"
+  ],
+  "platforms": [
+   "youtube",
+   "podcasts"
+  ],
+  "pricing": "de-pago",
+  "desc": "Transcripción y subtítulos con IA y revisión humana."
+ },
+ {
+  "slug": "happyscribe",
+  "name": "Happy Scribe",
+  "url": "https://www.happyscribe.com",
+  "categories": [
+   "subtitulos"
+  ],
+  "platforms": [
+   "youtube",
+   "podcasts"
+  ],
+  "pricing": "freemium",
+  "desc": "Transcripción y subtítulos en más de 100 idiomas."
+ },
+ {
+  "slug": "turboscribe",
+  "name": "TurboScribe",
+  "url": "https://turboscribe.ai",
+  "categories": [
+   "subtitulos"
+  ],
+  "platforms": [
+   "youtube",
+   "podcasts"
+  ],
+  "pricing": "freemium",
+  "desc": "Transcripción rápida de audio y video basada en Whisper."
+ },
+ {
+  "slug": "midjourney",
+  "name": "Midjourney",
+  "url": "https://www.midjourney.com",
+  "categories": [
+   "miniaturas",
+   "branding"
+  ],
+  "platforms": [
+   "youtube",
+   "instagram"
+  ],
+  "pricing": "de-pago",
+  "desc": "Generador de imágenes de alta calidad a partir de texto."
+ },
+ {
+  "slug": "leonardo",
+  "name": "Leonardo.Ai",
+  "url": "https://leonardo.ai",
+  "categories": [
+   "miniaturas"
+  ],
+  "platforms": [
+   "youtube",
+   "instagram"
+  ],
+  "pricing": "freemium",
+  "desc": "Generación de imágenes y assets visuales con IA."
+ },
+ {
+  "slug": "ideogram",
+  "name": "Ideogram",
+  "url": "https://ideogram.ai",
+  "categories": [
+   "miniaturas",
+   "branding"
+  ],
+  "platforms": [
+   "youtube",
+   "instagram"
+  ],
+  "pricing": "freemium",
+  "desc": "Generador de imágenes destacado por renderizar texto legible."
+ },
+ {
+  "slug": "firefly",
+  "name": "Adobe Firefly",
+  "url": "https://firefly.adobe.com",
+  "categories": [
+   "miniaturas",
+   "branding"
+  ],
+  "platforms": [
+   "youtube",
+   "instagram"
+  ],
+  "pricing": "freemium",
+  "desc": "IA generativa de Adobe para imágenes y efectos de texto."
+ },
+ {
+  "slug": "canva",
+  "name": "Canva",
+  "url": "https://www.canva.com",
+  "categories": [
+   "miniaturas",
+   "branding",
+   "redes"
+  ],
+  "platforms": [
+   "youtube",
+   "instagram",
+   "tiktok"
+  ],
+  "pricing": "freemium",
+  "desc": "Diseño gráfico fácil con funciones de IA (Magic Studio)."
+ },
+ {
+  "slug": "photoroom",
+  "name": "Photoroom",
+  "url": "https://www.photoroom.com",
+  "categories": [
+   "miniaturas"
+  ],
+  "platforms": [
+   "instagram",
+   "youtube"
+  ],
+  "pricing": "freemium",
+  "desc": "Quita fondos y crea fotos de producto con IA."
+ },
+ {
+  "slug": "removebg",
+  "name": "remove.bg",
+  "url": "https://www.remove.bg",
+  "categories": [
+   "miniaturas"
+  ],
+  "platforms": [
+   "youtube",
+   "instagram"
+  ],
+  "pricing": "freemium",
+  "desc": "Elimina el fondo de imágenes automáticamente."
+ },
+ {
+  "slug": "heygen",
+  "name": "HeyGen",
+  "url": "https://www.heygen.com",
+  "categories": [
+   "avatares",
+   "voz"
+  ],
+  "platforms": [
+   "youtube",
+   "tiktok",
+   "instagram"
+  ],
+  "pricing": "freemium",
+  "desc": "Avatares con IA y traducción de video con sincronización de labios."
+ },
+ {
+  "slug": "synthesia",
+  "name": "Synthesia",
+  "url": "https://www.synthesia.io",
+  "categories": [
+   "avatares"
+  ],
+  "platforms": [
+   "youtube"
+  ],
+  "pricing": "freemium",
+  "desc": "Videos con presentadores virtuales a partir de texto."
+ },
+ {
+  "slug": "did",
+  "name": "D-ID",
+  "url": "https://www.d-id.com",
+  "categories": [
+   "avatares"
+  ],
+  "platforms": [
+   "youtube",
+   "tiktok"
+  ],
+  "pricing": "freemium",
+  "desc": "Anima fotos y crea avatares parlantes."
+ },
+ {
+  "slug": "captions",
+  "name": "Captions",
+  "url": "https://www.captions.ai",
+  "categories": [
+   "avatares",
+   "subtitulos",
+   "edicion"
+  ],
+  "platforms": [
+   "tiktok",
+   "instagram",
+   "youtube"
+  ],
+  "pricing": "freemium",
+  "desc": "App para creadores: subtítulos, edición y avatares con IA."
+ },
+ {
+  "slug": "pika",
+  "name": "Pika",
+  "url": "https://pika.art",
+  "categories": [
+   "avatares"
+  ],
+  "platforms": [
+   "tiktok",
+   "instagram"
+  ],
+  "pricing": "freemium",
+  "desc": "Generación de video a partir de texto o imagen."
+ },
+ {
+  "slug": "luma",
+  "name": "Luma Dream Machine",
+  "url": "https://lumalabs.ai",
+  "categories": [
+   "avatares"
+  ],
+  "platforms": [
+   "tiktok",
+   "instagram",
+   "youtube"
+  ],
+  "pricing": "freemium",
+  "desc": "Generador de video realista a partir de texto e imágenes."
+ },
+ {
+  "slug": "suno",
+  "name": "Suno",
+  "url": "https://suno.com",
+  "categories": [
+   "musica"
+  ],
+  "platforms": [
+   "youtube",
+   "tiktok",
+   "podcasts"
+  ],
+  "pricing": "freemium",
+  "desc": "Crea canciones completas con IA a partir de una descripción."
+ },
+ {
+  "slug": "udio",
+  "name": "Udio",
+  "url": "https://www.udio.com",
+  "categories": [
+   "musica"
+  ],
+  "platforms": [
+   "youtube",
+   "tiktok"
+  ],
+  "pricing": "freemium",
+  "desc": "Generación de música con IA."
+ },
+ {
+  "slug": "epidemic",
+  "name": "Epidemic Sound",
+  "url": "https://www.epidemicsound.com",
+  "categories": [
+   "musica"
+  ],
+  "platforms": [
+   "youtube",
+   "tiktok",
+   "instagram",
+   "podcasts"
+  ],
+  "pricing": "de-pago",
+  "desc": "Biblioteca de música y efectos sin problemas de copyright."
+ },
+ {
+  "slug": "soundraw",
+  "name": "Soundraw",
+  "url": "https://soundraw.io",
+  "categories": [
+   "musica"
+  ],
+  "platforms": [
+   "youtube",
+   "tiktok"
+  ],
+  "pricing": "de-pago",
+  "desc": "Música generada con IA libre de regalías y personalizable."
+ },
+ {
+  "slug": "beehiiv",
+  "name": "beehiiv",
+  "url": "https://www.beehiiv.com",
+  "categories": [
+   "newsletters"
+  ],
+  "platforms": [
+   "newsletters"
+  ],
+  "pricing": "freemium",
+  "desc": "Plataforma de newsletters con herramientas de escritura con IA y crecimiento."
+ },
+ {
+  "slug": "grammarly",
+  "name": "Grammarly",
+  "url": "https://www.grammarly.com",
+  "categories": [
+   "newsletters"
+  ],
+  "platforms": [
+   "newsletters"
+  ],
+  "pricing": "freemium",
+  "desc": "Corrector y asistente de escritura con IA."
+ },
+ {
+  "slug": "notion",
+  "name": "Notion AI",
+  "url": "https://www.notion.com",
+  "categories": [
+   "guiones",
+   "newsletters"
+  ],
+  "platforms": [
+   "newsletters",
+   "youtube"
+  ],
+  "pricing": "freemium",
+  "desc": "Espacio de trabajo con IA para planear contenido y redactar."
+ },
+ {
+  "slug": "buffer",
+  "name": "Buffer",
+  "url": "https://buffer.com",
+  "categories": [
+   "redes"
+  ],
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "pricing": "freemium",
+  "desc": "Programación de publicaciones con asistente de IA para captions."
+ },
+ {
+  "slug": "hootsuite",
+  "name": "Hootsuite",
+  "url": "https://www.hootsuite.com",
+  "categories": [
+   "redes"
+  ],
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "pricing": "de-pago",
+  "desc": "Gestión y programación de redes sociales con OwlyWriter AI."
+ },
+ {
+  "slug": "later",
+  "name": "Later",
+  "url": "https://later.com",
+  "categories": [
+   "redes"
+  ],
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "pricing": "de-pago",
+  "desc": "Planificador visual para Instagram y TikTok con captions con IA."
+ },
+ {
+  "slug": "metricool",
+  "name": "Metricool",
+  "url": "https://metricool.com",
+  "categories": [
+   "redes"
+  ],
+  "platforms": [
+   "instagram",
+   "tiktok",
+   "youtube"
+  ],
+  "pricing": "freemium",
+  "desc": "Planifica, publica y analiza tus redes en un solo lugar."
+ },
+ {
+  "slug": "vidiq",
+  "name": "vidIQ",
+  "url": "https://vidiq.com",
+  "categories": [
+   "seo-youtube"
+  ],
+  "platforms": [
+   "youtube"
+  ],
+  "pricing": "freemium",
+  "desc": "Ideas, palabras clave y analítica con IA para crecer en YouTube."
+ },
+ {
+  "slug": "tubebuddy",
+  "name": "TubeBuddy",
+  "url": "https://www.tubebuddy.com",
+  "categories": [
+   "seo-youtube"
+  ],
+  "platforms": [
+   "youtube"
+  ],
+  "pricing": "freemium",
+  "desc": "Extensión para optimizar SEO, miniaturas y pruebas A/B en YouTube."
+ },
+ {
+  "slug": "spotter",
+  "name": "Spotter Studio",
+  "url": "https://www.spotterstudio.com",
+  "categories": [
+   "seo-youtube",
+   "guiones"
+  ],
+  "platforms": [
+   "youtube"
+  ],
+  "pricing": "de-pago",
+  "desc": "Ideas y análisis de rendimiento para creadores de YouTube."
+ },
+ {
+  "slug": "looka",
+  "name": "Looka",
+  "url": "https://looka.com",
+  "categories": [
+   "branding"
+  ],
+  "platforms": [
+   "youtube",
+   "instagram"
+  ],
+  "pricing": "de-pago",
+  "desc": "Diseña logos e identidad de marca con IA."
+ },
+ {
+  "slug": "brandmark",
+  "name": "Brandmark",
+  "url": "https://brandmark.io",
+  "categories": [
+   "branding"
+  ],
+  "platforms": [
+   "youtube",
+   "instagram"
+  ],
+  "pricing": "de-pago",
+  "desc": "Generador de logos con IA."
+ }
+]
