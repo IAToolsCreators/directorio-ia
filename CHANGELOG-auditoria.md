@@ -32,3 +32,9 @@
 - synthesia: descripción actualizada
 - epidemic: descripción actualizada
 - hootsuite: descripción actualizada
+
+## Mantenimiento 22-oct-2026
+- Nuevas: Gling (edicion, freemium: plan $0), Fliki (edicion/voz, freemium: free forever), Eklipse (clips, freemium: free features + Premium), Rask AI (voz/subtitulos, ver-sitio).
+- Revisadas (rotación, tools.json índices 0–9): chatgpt, claude, gemini, perplexity, jasper, copyai, capcut, descript, runway, veed. Enlaces vivos (403 = protección anti-bot en chatgpt/claude/perplexity).
+- copyai: freemium→ver-sitio (la página de precios solo muestra planes de pago, sin plan gratis visible); descripción actualizada (ahora plataforma GTM de marketing y ventas).
+- Próxima rotación: índices 10–19.

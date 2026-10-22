@@ -97,9 +97,9 @@
    "tiktok",
    "newsletters"
   ],
-  "pricing": "freemium",
-  "desc": "Generador de textos de marketing, captions y descripciones.",
-  "description_en": "Generates marketing copy, captions, and descriptions."
+  "pricing": "ver-sitio",
+  "desc": "Plataforma de IA para marketing y ventas; genera textos, captions y descripciones de marca.",
+  "description_en": "AI platform for marketing and sales teams; generates copy, captions, and on-brand descriptions."
  },
  {
   "slug": "capcut",
@@ -1206,5 +1206,69 @@
   "pricing": "ver-sitio",
   "desc": "Diseño rápido de posts, miniaturas y logos con plantillas e IA de Adobe Firefly.",
   "description_en": "Quick design for posts, thumbnails, and logos with templates and Adobe Firefly AI."
+ },
+ {
+  "slug": "gling",
+  "name": "Gling",
+  "url": "https://www.gling.ai",
+  "categories": [
+   "edicion"
+  ],
+  "platforms": [
+   "youtube"
+  ],
+  "pricing": "freemium",
+  "desc": "Editor con IA pensado para YouTubers: quita silencios, tomas malas y muletillas del video en bruto.",
+  "description_en": "AI editor built for YouTubers: cuts silences, bad takes, and filler words from raw footage."
+ },
+ {
+  "slug": "fliki",
+  "name": "Fliki",
+  "url": "https://fliki.ai",
+  "categories": [
+   "edicion",
+   "voz"
+  ],
+  "platforms": [
+   "youtube",
+   "tiktok",
+   "instagram"
+  ],
+  "pricing": "freemium",
+  "desc": "Convierte ideas, guiones o artículos en videos con más de 2,000 voces de IA en 80+ idiomas.",
+  "description_en": "Turns ideas, scripts, or blog posts into videos with 2,000+ AI voices in 80+ languages."
+ },
+ {
+  "slug": "eklipse",
+  "name": "Eklipse",
+  "url": "https://eklipse.gg",
+  "categories": [
+   "clips"
+  ],
+  "platforms": [
+   "tiktok",
+   "instagram",
+   "youtube"
+  ],
+  "pricing": "freemium",
+  "desc": "Convierte tus streams de Twitch, YouTube y Kick en clips verticales con subtítulos para TikTok, Reels y Shorts.",
+  "description_en": "Turns your Twitch, YouTube, and Kick streams into captioned vertical clips for TikTok, Reels, and Shorts."
+ },
+ {
+  "slug": "rask-ai",
+  "name": "Rask AI",
+  "url": "https://www.rask.ai",
+  "categories": [
+   "voz",
+   "subtitulos"
+  ],
+  "platforms": [
+   "youtube",
+   "tiktok",
+   "instagram"
+  ],
+  "pricing": "ver-sitio",
+  "desc": "Traduce y dobla tus videos a otros idiomas con clonación de voz, lip-sync y subtítulos.",
+  "description_en": "Translates and dubs your videos into other languages with voice cloning, lip-sync, and subtitles."
  }
 ]
