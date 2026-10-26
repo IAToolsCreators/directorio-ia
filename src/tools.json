@@ -200,7 +200,7 @@
    "youtube",
    "tiktok"
   ],
-  "pricing": "freemium",
+  "pricing": "ver-sitio",
   "desc": "Crea videos a partir de un texto o guion usando IA.",
   "description_en": "Turns a prompt or script into a finished video with AI."
  },
@@ -278,7 +278,7 @@
    "instagram",
    "youtube"
   ],
-  "pricing": "de-pago",
+  "pricing": "ver-sitio",
   "desc": "Genera shorts virales a partir de videos de YouTube.",
   "description_en": "Creates viral-ready Shorts from your YouTube videos."
  },
@@ -301,10 +301,11 @@
  },
  {
   "slug": "munch",
-  "name": "Munch",
-  "url": "https://www.getmunch.com",
+  "name": "Munch Studio",
+  "url": "https://www.munchstudio.com",
   "categories": [
-   "clips"
+   "clips",
+   "redes"
   ],
   "platforms": [
    "tiktok",
@@ -312,8 +313,8 @@
    "youtube"
   ],
   "pricing": "de-pago",
-  "desc": "Repurposing de video largo a clips con análisis de tendencias.",
-  "description_en": "Repurposes long videos into clips, informed by trend analysis."
+  "desc": "Crea contenido para redes listo para publicar (posts, reels y guiones de video) a partir de tu marca y tu sitio web.",
+  "description_en": "Creates ready-to-publish social content (posts, reels, and video scripts) based on your brand and website."
  },
  {
   "slug": "elevenlabs",
@@ -1270,5 +1271,51 @@
   "pricing": "ver-sitio",
   "desc": "Traduce y dobla tus videos a otros idiomas con clonación de voz, lip-sync y subtítulos.",
   "description_en": "Translates and dubs your videos into other languages with voice cloning, lip-sync, and subtitles."
+ },
+ {
+  "slug": "clipchamp",
+  "name": "Clipchamp",
+  "url": "https://clipchamp.com",
+  "categories": [
+   "edicion",
+   "subtitulos"
+  ],
+  "platforms": [
+   "youtube",
+   "tiktok",
+   "instagram"
+  ],
+  "pricing": "freemium",
+  "desc": "Editor de video en línea de Microsoft con plantillas, subtítulos automáticos y voces con IA.",
+  "description_en": "Microsoft's online video editor with templates, auto captions, and AI voiceovers."
+ },
+ {
+  "slug": "taplio",
+  "name": "Taplio",
+  "url": "https://taplio.com",
+  "categories": [
+   "redes"
+  ],
+  "platforms": [],
+  "pricing": "de-pago",
+  "desc": "Herramienta con IA para crecer en LinkedIn: ideas, redacción, programación de posts y analítica.",
+  "description_en": "AI tool for growing on LinkedIn: post ideas, writing, scheduling, and analytics."
+ },
+ {
+  "slug": "recraft",
+  "name": "Recraft",
+  "url": "https://www.recraft.ai",
+  "categories": [
+   "miniaturas",
+   "branding"
+  ],
+  "platforms": [
+   "youtube",
+   "instagram",
+   "tiktok"
+  ],
+  "pricing": "freemium",
+  "desc": "Genera imágenes, ilustraciones y gráficos vectoriales con IA, con control de estilo y colores de marca.",
+  "description_en": "Generates images, illustrations, and vector graphics with AI, with control over style and brand colors."
  }
 ]

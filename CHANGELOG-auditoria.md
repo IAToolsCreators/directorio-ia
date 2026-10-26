@@ -38,3 +38,12 @@
 - Revisadas (rotación, tools.json índices 0–9): chatgpt, claude, gemini, perplexity, jasper, copyai, capcut, descript, runway, veed. Enlaces vivos (403 = protección anti-bot en chatgpt/claude/perplexity).
 - copyai: freemium→ver-sitio (la página de precios solo muestra planes de pago, sin plan gratis visible); descripción actualizada (ahora plataforma GTM de marketing y ventas).
 - Próxima rotación: índices 10–19.
+
+## Mantenimiento 26-oct-2026
+- Nuevas: Clipchamp (edicion/subtitulos, freemium: plan gratis en su página de precios), Taplio (redes/LinkedIn, de-pago: planes desde $39/mes con prueba de 7 días), Recraft (miniaturas/branding, freemium: plan Free).
+- Revisadas (rotación, índices 10–19): kapwing, invideo, pictory, filmora, opusclip, vizard, klap, submagic, munch, elevenlabs. Todos los enlaces vivos.
+- munch: getmunch.com redirige a munchstudio.com; renombrado a Munch Studio, URL y descripción actualizadas (ahora contenido de redes hecho por IA), categoría redes añadida.
+- invideo: freemium→ver-sitio (la página de precios no muestra plan gratis).
+- klap: de-pago→ver-sitio (precios no verificables; la home dice "Try for free").
+- Descartada: Hedra (pivotó a infraestructura de modelos, ya no es herramienta para creadores).
+- Próxima rotación: índices 20–29.
