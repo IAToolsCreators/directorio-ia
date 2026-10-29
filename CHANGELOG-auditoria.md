@@ -47,3 +47,12 @@
 - klap: de-pago→ver-sitio (precios no verificables; la home dice "Try for free").
 - Descartada: Hedra (pivotó a infraestructura de modelos, ya no es herramienta para creadores).
 - Próxima rotación: índices 20–29.
+
+## Mantenimiento 29-oct-2026
+- Nuevas: Repurpose.io (redes/clips, de-pago: planes desde $35/mes con prueba de 14 días), Hypefury (redes, de-pago: desde $6/mes, sin plan gratis), Higgsfield AI (edicion/miniaturas, ver-sitio).
+- Revisadas (rotación, índices 20–29): murf, adobepodcast, krisp, auphonic, lalalai, riverside, castmagic, podcastle, otter, whisper. Todos los enlaces vivos.
+- podcastle: podcastle.ai redirige a async.com; renombrado a "Async (antes Podcastle)", URL, descripción y categorías actualizadas (ahora creación de video y audio con IA).
+- riverside: URL actualizada a riverside.com (riverside.fm redirige).
+- krisp: freemium→ver-sitio (la página de precios solo muestra prueba gratis de 7 días).
+- Descartada: Topaz Labs (precios no verificables; queda como candidata).
+- Próxima rotación: índices 30–39.

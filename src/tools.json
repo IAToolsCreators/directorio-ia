@@ -372,7 +372,7 @@
   "platforms": [
    "podcasts"
   ],
-  "pricing": "freemium",
+  "pricing": "ver-sitio",
   "desc": "Cancelación de ruido con IA en tiempo real.",
   "description_en": "Real-time AI noise cancellation."
  },
@@ -410,7 +410,7 @@
  {
   "slug": "riverside",
   "name": "Riverside",
-  "url": "https://riverside.fm",
+  "url": "https://riverside.com",
   "categories": [
    "podcasts",
    "clips"
@@ -441,18 +441,20 @@
  },
  {
   "slug": "podcastle",
-  "name": "Podcastle",
-  "url": "https://podcastle.ai",
+  "name": "Async (antes Podcastle)",
+  "url": "https://async.com",
   "categories": [
    "podcasts",
-   "voz"
+   "voz",
+   "edicion"
   ],
   "platforms": [
-   "podcasts"
+   "podcasts",
+   "youtube"
   ],
   "pricing": "freemium",
-  "desc": "Grabación, edición y mejora de audio para podcasts.",
-  "description_en": "Recording, editing, and audio enhancement for podcasts."
+  "desc": "Antes Podcastle: crea y edita video y audio con IA desde un chat, con grabación, voces y subtítulos.",
+  "description_en": "Formerly Podcastle: create and edit video and audio with AI through chat, with recording, voices, and captions."
  },
  {
   "slug": "otter",
@@ -1317,5 +1319,53 @@
   "pricing": "freemium",
   "desc": "Genera imágenes, ilustraciones y gráficos vectoriales con IA, con control de estilo y colores de marca.",
   "description_en": "Generates images, illustrations, and vector graphics with AI, with control over style and brand colors."
+ },
+ {
+  "slug": "repurposeio",
+  "name": "Repurpose.io",
+  "url": "https://repurpose.io",
+  "categories": [
+   "redes",
+   "clips"
+  ],
+  "platforms": [
+   "tiktok",
+   "instagram",
+   "youtube"
+  ],
+  "pricing": "de-pago",
+  "desc": "Publica automáticamente tus videos en Reels, TikTok, Shorts y más, sin marcas de agua.",
+  "description_en": "Automatically republish your videos to Reels, TikTok, Shorts, and more, without watermarks."
+ },
+ {
+  "slug": "hypefury",
+  "name": "Hypefury",
+  "url": "https://hypefury.com",
+  "categories": [
+   "redes"
+  ],
+  "platforms": [
+   "instagram"
+  ],
+  "pricing": "de-pago",
+  "desc": "Programa y automatiza posts en X, LinkedIn, Instagram y Bluesky para hacer crecer tu audiencia.",
+  "description_en": "Schedule and automate posts on X, LinkedIn, Instagram, and Bluesky to grow your audience."
+ },
+ {
+  "slug": "higgsfield",
+  "name": "Higgsfield AI",
+  "url": "https://higgsfield.ai",
+  "categories": [
+   "edicion",
+   "miniaturas"
+  ],
+  "platforms": [
+   "tiktok",
+   "instagram",
+   "youtube"
+  ],
+  "pricing": "ver-sitio",
+  "desc": "Suite creativa con IA para generar imágenes, videos y voces a partir de texto o referencias.",
+  "description_en": "AI creative suite that generates images, videos, and voice content from text prompts or references."
  }
 ]
