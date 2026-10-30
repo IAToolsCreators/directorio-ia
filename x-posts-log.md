@@ -57,3 +57,20 @@ https://directorio-ia-delta.vercel.app/
   - ES a `@ImVictorGuardia` (automatizar short form con IA; OpusClip, Vizard, criterio editorial): https://x.com/AIToolsCreator/status/2115824571094024480 (en https://x.com/ImVictorGuardia/status/2115763473019728378)
   - EN a `@Manavpod` (su stack de IA; Castmagic y OpusClip junto a Descript): https://x.com/AIToolsCreator/status/2115824694423368133 (en https://x.com/Manavpod/status/2115329346604790211)
 - **Cuentas seguidas:** `@Manavpod`, `@ImVictorGuardia`, `@Polanco_IA`
+
+### 2026-10-30 | Idioma: EN | Formato: Herramienta destacada (Gling)
+- **Post publicado:** https://x.com/AIToolsCreator/status/2116185253694071095
+- **Texto:**
+Featured tool: Gling
+
+Built for YouTubers: it cuts silences, bad takes and filler words from your raw footage, so you start editing from a clean rough cut.
+
+Pricing: freemium.
+
+More editing tools in our AI directory:
+https://directorio-ia-delta.vercel.app/en/tools/gling/
+- **Comentarios publicados (3/3):**
+  - EN a `@DrewPavlou` (mejor estrategia de edición con IA; Gling/Descript + OpusClip, criterio humano): https://x.com/AIToolsCreator/status/2116185409369829689 (en https://x.com/DrewPavlou/status/2115563684294799870)
+  - EN a `@mwanzane` (cómo funciona la edición con IA; basada en transcripción, Descript y Gling): https://x.com/AIToolsCreator/status/2116185579394310545 (en https://x.com/mwanzane/status/2115442320006885579)
+  - ES a `@SweetLiz02` (pide apps para editar videos; CapCut y Clipchamp): https://x.com/AIToolsCreator/status/2116185669764858289 (en https://x.com/SweetLiz02/status/2116137250031362311)
+- **Cuentas seguidas:** `@robertoblake`, `@MattPaige32`, `@nischalsharma_`
