@@ -74,3 +74,22 @@ https://directorio-ia-delta.vercel.app/en/tools/gling/
   - EN a `@mwanzane` (cómo funciona la edición con IA; basada en transcripción, Descript y Gling): https://x.com/AIToolsCreator/status/2116185579394310545 (en https://x.com/mwanzane/status/2115442320006885579)
   - ES a `@SweetLiz02` (pide apps para editar videos; CapCut y Clipchamp): https://x.com/AIToolsCreator/status/2116185669764858289 (en https://x.com/SweetLiz02/status/2116137250031362311)
 - **Cuentas seguidas:** `@robertoblake`, `@MattPaige32`, `@nischalsharma_`
+
+### 2026-10-31 | Idioma: ES | Formato: Hilo de 4 posts (preparar un video de YouTube con IA), sin link en el post principal
+- **Hilo publicado:**
+  1. https://x.com/AIToolsCreator/status/2116547114113417495
+  2. https://x.com/AIToolsCreator/status/2116547115283530070
+  3. https://x.com/AIToolsCreator/status/2116547116571251046
+  4. https://x.com/AIToolsCreator/status/2116547118311862564
+- **Texto:**
+1/ Antes de grabar tu próximo video de YouTube, la IA te puede ahorrar horas de preparación. Así lo haría en 3 pasos, con herramientas reales 🧵
+2/ 1. La idea — Google Trends (gratis) te muestra qué se busca y si el interés sube, con filtro para búsquedas de YouTube. 1of10 (freemium) encuentra videos que superan el promedio de su canal: buenas pistas para temas y títulos.
+3/ 2. El guion — Investiga el tema con Perplexity, que cita sus fuentes, y luego arma el borrador con Claude o ChatGPT. Úsalo como punto de partida: tu opinión y tus ejemplos son lo que hace que el video funcione.
+4/ 3. La miniatura — Ideogram genera imágenes con texto legible y en Canva (freemium) armas el diseño final con tu foto. Haz 2 o 3 versiones antes de decidir.
+- **Auto-respuesta con link:** https://x.com/AIToolsCreator/status/2116547265867440472 ("Estas y más de 80 herramientas de IA para creadores, ordenadas por tarea y con filtro de planes gratis: https://directorio-ia-delta.vercel.app/")
+- **Comentarios publicados (3/3):**
+  - ES a `@martinvars` (230k seguidores; campaña con IA/Glif y modelos virtuales en salud): https://x.com/AIToolsCreator/status/2116547372687999125 (en https://x.com/martinvars/status/2116507537306427888)
+  - EN a `@AnishJaitwar` (41k; lista de 35+ herramientas de IA; sugerí OpusClip/Vizard, Descript, Gling): https://x.com/AIToolsCreator/status/2116547522772738539 (en https://x.com/AnishJaitwar/status/2116526778454098122)
+  - EN a `@Bbruhis` (2k; "bullish on AI video editing"; limpieza de silencios y tomas): https://x.com/AIToolsCreator/status/2116547656936022506 (en https://x.com/Bbruhis/status/2116540412085334496)
+- **Cuentas seguidas:** `@AnishJaitwar`, `@Bbruhis`, `@AngelApa_IA`
+- **Seguidores de @AIToolsCreator:** 3
