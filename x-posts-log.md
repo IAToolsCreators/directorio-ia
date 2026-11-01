@@ -93,3 +93,23 @@ https://directorio-ia-delta.vercel.app/en/tools/gling/
   - EN a `@Bbruhis` (2k; "bullish on AI video editing"; limpieza de silencios y tomas): https://x.com/AIToolsCreator/status/2116547656936022506 (en https://x.com/Bbruhis/status/2116540412085334496)
 - **Cuentas seguidas:** `@AnishJaitwar`, `@Bbruhis`, `@AngelApa_IA`
 - **Seguidores de @AIToolsCreator:** 3
+
+### 2026-11-01 | Idioma: EN | Formato: Categoría específica (Audio y voz), sin link en el post principal
+- **Post publicado:** https://x.com/AIToolsCreator/status/2116925495036047578
+- **Texto:**
+Viewers forgive average video, not bad audio.
+
+AI tools to clean up your sound:
+
+- Adobe Podcast: one-click Enhance Speech
+- Auphonic: leveling, noise reduction, loudness (freemium)
+- Krisp: real-time noise cancellation
+- LALAL.AI: splits vocals from music
+- **Nota:** X convirtió "LALAL.AI" en link automático y muestra tarjeta de vista previa; evitar nombres con dominio en el texto si se quiere post sin link.
+- **Auto-respuesta con link:** https://x.com/AIToolsCreator/status/2116925799630766151 ("More AI audio and voice tools for creators, sorted by task: https://directorio-ia-delta.vercel.app/en/categories/voz/")
+- **Comentarios publicados (3/3):**
+  - EN a `@robertoblake` (124k; debate de edición de video con IA vs Adobe/DaVinci): https://x.com/AIToolsCreator/status/2116925894694686852 (en https://x.com/robertoblake/status/2116888582816252199)
+  - EN a `@dorukkavcioglu` (5k; su setup de edición con IA): https://x.com/AIToolsCreator/status/2116926042967597439 (en https://x.com/dorukkavcioglu/status/2116897836830982158)
+  - EN a `@King_Breezyy` (4k; el "taste" de los creadores): https://x.com/AIToolsCreator/status/2116926102509691347 (en https://x.com/King_Breezyy/status/2116903909205614800)
+- **Cuentas seguidas:** `@dorukkavcioglu`, `@King_Breezyy`, `@naumowf`
+- **Seguidores de @AIToolsCreator:** 3
