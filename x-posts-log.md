@@ -113,3 +113,21 @@ AI tools to clean up your sound:
   - EN a `@King_Breezyy` (4k; el "taste" de los creadores): https://x.com/AIToolsCreator/status/2116926102509691347 (en https://x.com/King_Breezyy/status/2116903909205614800)
 - **Cuentas seguidas:** `@dorukkavcioglu`, `@King_Breezyy`, `@naumowf`
 - **Seguidores de @AIToolsCreator:** 3
+
+### 2026-11-02 | Idioma: ES | Formato: Herramienta destacada (ElevenLabs), sin link en el post principal
+- **Post publicado:** https://x.com/AIToolsCreator/status/2117289733445579136
+- **Texto:**
+Herramienta destacada: ElevenLabs
+
+Convierte texto en voz realista, clona tu propia voz y dobla tus videos a otros idiomas.
+
+Útil si quieres llevar tu canal o tu podcast a otro público sin volver a grabar.
+
+Precio: freemium (tiene plan gratis).
+- **Auto-respuesta con link:** https://x.com/AIToolsCreator/status/2117289827984883980 ("Más herramientas de voz y audio con IA para creadores, ordenadas por tarea: https://directorio-ia-delta.vercel.app/categorias/voz/")
+- **Comentarios publicados (3/3):**
+  - ES a `@Fran_actua` (164k; 6 herramientas de IA infravaloradas; sugerí Gling y Castmagic): https://x.com/AIToolsCreator/status/2117289952233046363 (en https://x.com/Fran_actua/status/2117255782622249321)
+  - EN a `@Victoriaai_01` (22k; herramientas gratis vs de pago para creadores; Descript y OpusClip): https://x.com/AIToolsCreator/status/2117290116440101335 (en https://x.com/Victoriaai_01/status/2117272019469578542)
+  - ES a `@Rodrigoajj_yt` (quiere editar con IA gratis; CapCut, Clipchamp, OpusClip): https://x.com/AIToolsCreator/status/2117290193371980118 (en https://x.com/Rodrigoajj_yt/status/2117264678912921951)
+- **Cuentas seguidas:** `@Victoriaai_01`, `@juanmotionai` (`@Fran_actua` ya se seguía)
+- **Seguidores de @AIToolsCreator:** 3
