@@ -56,3 +56,11 @@
 - krisp: freemium→ver-sitio (la página de precios solo muestra prueba gratis de 7 días).
 - Descartada: Topaz Labs (precios no verificables; queda como candidata).
 - Próxima rotación: índices 30–39.
+
+## Mantenimiento 2-nov-2026
+- Nuevas: Wondercraft (podcasts/voz, freemium: plan Free $0), Predis.ai (redes, de-pago: prueba de 3 días con tarjeta, sin plan gratis), Kittl (branding/miniaturas, freemium: plan Free).
+- Revisadas (rotación, índices 30–39): rev, happyscribe, turboscribe, midjourney, leonardo, ideogram, firefly, canva, photoroom, removebg. Enlaces vivos (403 = protección anti-bot en turboscribe/midjourney/leonardo/ideogram).
+- rev: de-pago→ver-sitio y descripción actualizada (la página de precios ahora se enfoca en equipos legales e investigación).
+- photoroom: freemium→ver-sitio (la página de precios solo muestra pruebas gratis).
+- Descartada otra vez: Topaz Labs (página de precios sin datos legibles).
+- Próxima rotación: índices 40–49.

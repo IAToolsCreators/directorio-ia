@@ -497,9 +497,9 @@
    "youtube",
    "podcasts"
   ],
-  "pricing": "de-pago",
-  "desc": "Transcripción y subtítulos con IA y revisión humana.",
-  "description_en": "Transcripts and captions powered by AI, with optional human review."
+  "pricing": "ver-sitio",
+  "desc": "Transcripción y subtítulos con IA y servicios revisados por personas; hoy también enfocada en equipos legales y de investigación.",
+  "description_en": "AI transcription and captions plus human-verified services, now also focused on legal and investigative teams."
  },
  {
   "slug": "happyscribe",
@@ -623,7 +623,7 @@
    "instagram",
    "youtube"
   ],
-  "pricing": "freemium",
+  "pricing": "ver-sitio",
   "desc": "Quita fondos y crea fotos de producto con IA.",
   "description_en": "Removes backgrounds and creates product photos with AI."
  },
@@ -1367,5 +1367,53 @@
   "pricing": "ver-sitio",
   "desc": "Suite creativa con IA para generar imágenes, videos y voces a partir de texto o referencias.",
   "description_en": "AI creative suite that generates images, videos, and voice content from text prompts or references."
+ },
+ {
+  "slug": "wondercraft",
+  "name": "Wondercraft",
+  "url": "https://www.wondercraft.ai",
+  "categories": [
+   "podcasts",
+   "voz"
+  ],
+  "platforms": [
+   "podcasts",
+   "youtube"
+  ],
+  "pricing": "freemium",
+  "desc": "Crea podcasts, anuncios y videos con voces de IA, música y edición en un solo lugar.",
+  "description_en": "Create podcasts, ads, and videos with AI voices, music, and editing in one place."
+ },
+ {
+  "slug": "predis",
+  "name": "Predis.ai",
+  "url": "https://predis.ai",
+  "categories": [
+   "redes"
+  ],
+  "platforms": [
+   "instagram",
+   "tiktok",
+   "youtube"
+  ],
+  "pricing": "de-pago",
+  "desc": "Genera posts, carruseles, videos y anuncios para redes con IA y los programa desde la misma app.",
+  "description_en": "Generates social posts, carousels, videos, and ads with AI and schedules them from the same app."
+ },
+ {
+  "slug": "kittl",
+  "name": "Kittl",
+  "url": "https://www.kittl.com",
+  "categories": [
+   "branding",
+   "miniaturas"
+  ],
+  "platforms": [
+   "youtube",
+   "instagram"
+  ],
+  "pricing": "freemium",
+  "desc": "Editor de diseño con IA y plantillas para logos, miniaturas, pósters y gráficos de marca.",
+  "description_en": "AI design editor with templates for logos, thumbnails, posters, and brand graphics."
  }
 ]
