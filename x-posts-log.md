@@ -131,3 +131,21 @@ Precio: freemium (tiene plan gratis).
   - ES a `@Rodrigoajj_yt` (quiere editar con IA gratis; CapCut, Clipchamp, OpusClip): https://x.com/AIToolsCreator/status/2117290193371980118 (en https://x.com/Rodrigoajj_yt/status/2117264678912921951)
 - **Cuentas seguidas:** `@Victoriaai_01`, `@juanmotionai` (`@Fran_actua` ya se seguía)
 - **Seguidores de @AIToolsCreator:** 3
+
+### 2026-11-03 | Idioma: EN | Formato: Consejo de flujo de trabajo (podcast a una semana de contenido: Riverside, Castmagic, OpusClip), sin link en el post principal
+- **Post publicado:** https://x.com/AIToolsCreator/status/2117650052177068034
+- **Texto:**
+One podcast episode can feed a whole week of content:
+
+1. Record in Riverside and grab the AI transcript
+2. Paste it into Castmagic for show notes and a newsletter draft
+3. Run the video through OpusClip for vertical clips
+
+Record once, publish all week.
+- **Auto-respuesta con link:** https://x.com/AIToolsCreator/status/2117650200739340346 ("More AI tools for podcasts, clips and newsletters, sorted by task: https://directorio-ia-delta.vercel.app/en/")
+- **Comentarios publicados (3/3):**
+  - EN a `@TubeLabHQ` (16.7k; "stop paying for AI video editors"; limpieza de silencios y tomas): https://x.com/AIToolsCreator/status/2117650338513903767 (en https://x.com/TubeLabHQ/status/2117641237998006336)
+  - EN a `@futurepedia_io` (9.4k; OpusClip 4.0 edita el video completo): https://x.com/AIToolsCreator/status/2117650509343686806 (en https://x.com/futurepedia_io/status/2117614019812925934)
+  - EN a `@mannyyreyyes` (2.2k; newsletters escritas con IA; el punto de vista propio): https://x.com/AIToolsCreator/status/2117650607607808116 (en https://x.com/mannyyreyyes/status/2117632906315366649)
+- **Cuentas seguidas:** `@TubeLabHQ`, `@futurepedia_io`, `@mannyyreyyes`
+- **Seguidores de @AIToolsCreator:** 3
