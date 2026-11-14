@@ -149,3 +149,24 @@ Record once, publish all week.
   - EN a `@mannyyreyyes` (2.2k; newsletters escritas con IA; el punto de vista propio): https://x.com/AIToolsCreator/status/2117650607607808116 (en https://x.com/mannyyreyyes/status/2117632906315366649)
 - **Cuentas seguidas:** `@TubeLabHQ`, `@futurepedia_io`, `@mannyyreyyes`
 - **Seguidores de @AIToolsCreator:** 3
+
+
+### 2026-11-14 | Idioma: ES | Formato: Categoría específica (Subtítulos), sin link en el post principal
+- **Nota:** el registro saltó del 3-nov al 14-nov (no hubo entradas en ese periodo); se retoma alternando desde el último post (EN).
+- **Post publicado:** https://x.com/AIToolsCreator/status/2121639514376728847
+- **Texto:**
+Mucha gente ve tus videos sin sonido. Los subtítulos ya no son opcionales.
+
+IA para subtitular rápido:
+
+- CapCut: subtítulos automáticos (freemium)
+- Submagic: subtítulos animados virales
+- Happy Scribe: +100 idiomas (freemium)
+- Whisper: transcripción gratis
+- **Auto-respuesta con link:** https://x.com/AIToolsCreator/status/2121639650028908831 ("Más herramientas de subtítulos y transcripción con IA, ordenadas por tarea: https://directorio-ia-delta.vercel.app/categorias/subtitulos/")
+- **Comentarios publicados (3/3):**
+  - EN a `@heyronir` (56k; newsletter diaria de IA y la investigación de lanzamientos/precios; Perplexity + revisar la página de precios): https://x.com/AIToolsCreator/status/2121639747814560078 (en https://x.com/heyronir/status/2121606298806657474)
+  - EN a `@rirahcreates` (6k; empezar a crear video con IA sin saberlo todo; un solo flujo y repetirlo): https://x.com/AIToolsCreator/status/2121639841263698167 (en https://x.com/rirahcreates/status/2121631995193127267)
+  - EN a `@aiwithaman` (47k; lista de 80+ herramientas de IA; sugerí capa de subtítulos con Submagic o CapCut): https://x.com/AIToolsCreator/status/2121640008071225482 (en https://x.com/aiwithaman/status/2121621502974218310)
+- **Cuentas seguidas:** `@heyronir`, `@rirahcreates`, `@aiwithaman`
+- **Seguidores de @AIToolsCreator:** 3
