@@ -170,3 +170,23 @@ IA para subtitular rápido:
   - EN a `@aiwithaman` (47k; lista de 80+ herramientas de IA; sugerí capa de subtítulos con Submagic o CapCut): https://x.com/AIToolsCreator/status/2121640008071225482 (en https://x.com/aiwithaman/status/2121621502974218310)
 - **Cuentas seguidas:** `@heyronir`, `@rirahcreates`, `@aiwithaman`
 - **Seguidores de @AIToolsCreator:** 3
+
+
+### 2026-11-15 | Idioma: EN | Formato: Herramienta destacada (1of10), sin link en el post principal
+- **Post publicado:** https://x.com/AIToolsCreator/status/2122004084001567076
+- **Texto:**
+Featured tool: 1of10
+
+It finds "outlier" videos: uploads that beat their own channel's average.
+
+Useful before you script: if a topic overperformed on a small channel, it's the idea pulling views, not the subscriber count.
+
+Pricing: freemium.
+- **Nota:** el primer intento publicó solo "Pricing: freemium." (fallo del texto multilínea); se borraron ese post (2122002922271547725) y su auto-respuesta (2122003004635382251) y se volvió a publicar completo.
+- **Auto-respuesta con link:** https://x.com/AIToolsCreator/status/2122004389246235032 ("More AI tools for YouTube research, SEO and titles, sorted by task: https://directorio-ia-delta.vercel.app/en/categories/seo-youtube/")
+- **Comentarios publicados (3/3):**
+  - EN a `@EbukaTBH` (22k; 10 herramientas de IA para creadores; empezar por una tarea repetida): https://x.com/AIToolsCreator/status/2122003086625452126 (en https://x.com/EbukaTBH/status/2122001072634126573)
+  - EN a `@azizultw5` (2.6k; toolkit de IA para YouTubers; sugerí 1of10 + vidIQ): https://x.com/AIToolsCreator/status/2122003155152228734 (en https://x.com/azizultw5/status/2121984934038716503)
+  - ES a `@Frankzm` (20k; corto de Núremberg hecho con IA; la dirección sigue siendo humana): https://x.com/AIToolsCreator/status/2122003206850892201 (en https://x.com/Frankzm/status/2122001423646736599)
+- **Cuentas seguidas:** `@EbukaTBH`, `@azizultw5`, `@Frankzm`
+- **Seguidores de @AIToolsCreator:** 3
