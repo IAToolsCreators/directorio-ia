@@ -64,3 +64,14 @@
 - photoroom: freemium→ver-sitio (la página de precios solo muestra pruebas gratis).
 - Descartada otra vez: Topaz Labs (página de precios sin datos legibles).
 - Próxima rotación: índices 40–49.
+
+## Mantenimiento 16-nov-2026
+- Nuevas: Headliner (podcasts/clips, freemium: plan Forever Free $0), quso.ai (clips/redes, freemium: plan Free $0), Zebracat (edicion/avatares, ver-sitio: la página de precios solo muestra planes de pago aunque la home dice "Start free").
+- Revisadas (rotación, índices 40–49): heygen, synthesia, did, captions, pika, luma, suno, udio, epidemic, soundraw. Todos los enlaces vivos (200).
+- synthesia: ver-sitio→freemium (plan Basic $0) y "140+ idiomas".
+- luma: renombrado "Luma Dream Machine"→"Luma AI" (el sitio ya no usa ese nombre; ahora modelos Ray + agentes creativos); freemium→ver-sitio (precios solo muestran planes de pago).
+- soundraw: ver-sitio→de-pago (solo planes de pago desde $5.99/mes).
+- d-id, pika: descripciones actualizadas.
+- udio: marcada con aviso en la descripción (descargas desactivadas desde el acuerdo con UMG, según su centro de ayuda).
+- Mejora: lista NEW de build.mjs actualizada con las herramientas agregadas desde el 22-oct (antes "Recién agregadas" mostraba solo la tanda del 21-oct).
+- Próxima rotación: índices 50–59.

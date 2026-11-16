@@ -669,9 +669,9 @@
   "platforms": [
    "youtube"
   ],
-  "pricing": "ver-sitio",
-  "desc": "Videos con presentadores virtuales (avatares) a partir de texto, en más de 100 idiomas.",
-  "description_en": "Videos with virtual presenters (avatars) from text, in 100+ languages."
+  "pricing": "freemium",
+  "desc": "Videos con presentadores virtuales (avatares) a partir de texto, en más de 140 idiomas.",
+  "description_en": "Videos with virtual presenters (avatars) from text, in 140+ languages."
  },
  {
   "slug": "did",
@@ -685,8 +685,8 @@
    "tiktok"
   ],
   "pricing": "ver-sitio",
-  "desc": "Anima fotos y crea avatares parlantes.",
-  "description_en": "Animates photos and creates talking avatars."
+  "desc": "Genera videos con avatares parlantes a partir de fotos o texto, además de agentes de avatar interactivos.",
+  "description_en": "Generates talking-avatar videos from photos or text, plus interactive avatar agents."
  },
  {
   "slug": "captions",
@@ -718,12 +718,12 @@
    "instagram"
   ],
   "pricing": "freemium",
-  "desc": "Generación de video a partir de texto o imagen.",
-  "description_en": "Generates video from text or images."
+  "desc": "Plataforma creativa para generar video, imágenes y audio con IA, con varios modelos en un solo lugar.",
+  "description_en": "Creative platform for generating AI video, images, and audio, with multiple models in one place."
  },
  {
   "slug": "luma",
-  "name": "Luma Dream Machine",
+  "name": "Luma AI",
   "url": "https://lumalabs.ai",
   "categories": [
    "avatares"
@@ -733,9 +733,9 @@
    "instagram",
    "youtube"
   ],
-  "pricing": "freemium",
-  "desc": "Generador de video realista a partir de texto e imágenes.",
-  "description_en": "Realistic video generator from text and images."
+  "pricing": "ver-sitio",
+  "desc": "Genera video e imágenes realistas con sus modelos Ray y agentes creativos que llevan el proyecto de principio a fin.",
+  "description_en": "Generates realistic video and images with its Ray models and creative agents that handle projects end to end."
  },
  {
   "slug": "suno",
@@ -765,8 +765,8 @@
    "tiktok"
   ],
   "pricing": "ver-sitio",
-  "desc": "Generación de música con IA.",
-  "description_en": "AI music generation."
+  "desc": "Generación de música con IA. Aviso: desde su acuerdo con Universal Music las descargas están desactivadas, así que la música no se puede usar fuera de la plataforma.",
+  "description_en": "AI music generation. Heads-up: since its Universal Music deal, downloads are disabled, so tracks can’t be used outside the platform."
  },
  {
   "slug": "epidemic",
@@ -796,7 +796,7 @@
    "youtube",
    "tiktok"
   ],
-  "pricing": "ver-sitio",
+  "pricing": "de-pago",
   "desc": "Música generada con IA libre de regalías y personalizable.",
   "description_en": "Customizable, royalty-free AI-generated music."
  },
@@ -1415,5 +1415,58 @@
   "pricing": "freemium",
   "desc": "Editor de diseño con IA y plantillas para logos, miniaturas, pósters y gráficos de marca.",
   "description_en": "AI design editor with templates for logos, thumbnails, posters, and brand graphics."
+ },
+ {
+  "slug": "headliner",
+  "name": "Headliner",
+  "url": "https://www.headliner.app",
+  "categories": [
+   "podcasts",
+   "clips"
+  ],
+  "platforms": [
+   "podcasts",
+   "youtube",
+   "tiktok",
+   "instagram"
+  ],
+  "pricing": "freemium",
+  "desc": "Convierte episodios de podcast en audiogramas y clips con subtítulos para promocionarlos en redes y YouTube.",
+  "description_en": "Turns podcast episodes into audiograms and captioned clips to promote them on social media and YouTube."
+ },
+ {
+  "slug": "quso",
+  "name": "quso.ai",
+  "url": "https://quso.ai",
+  "categories": [
+   "clips",
+   "redes"
+  ],
+  "platforms": [
+   "youtube",
+   "tiktok",
+   "instagram",
+   "podcasts"
+  ],
+  "pricing": "freemium",
+  "desc": "Convierte videos largos, podcasts y streams en clips cortos con subtítulos para TikTok, Reels y Shorts, y los programa por ti.",
+  "description_en": "Turns long videos, podcasts, and streams into short captioned clips for TikTok, Reels, and Shorts, then schedules them for you."
+ },
+ {
+  "slug": "zebracat",
+  "name": "Zebracat",
+  "url": "https://www.zebracat.ai",
+  "categories": [
+   "edicion",
+   "avatares"
+  ],
+  "platforms": [
+   "tiktok",
+   "youtube",
+   "instagram"
+  ],
+  "pricing": "ver-sitio",
+  "desc": "Crea videos listos para publicar a partir de una idea o guion, con voz en off, imágenes con IA y publicación automática.",
+  "description_en": "Creates ready-to-post videos from an idea or script, with AI voiceover, visuals, and auto-publishing."
  }
 ]
