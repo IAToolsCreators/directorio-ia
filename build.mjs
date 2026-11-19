@@ -1,7 +1,7 @@
 import fs from 'fs';
 const SITE_URL = (process.env.SITE_URL || 'https://directorio-ia.example.com').replace(/\/$/,'');
 const EMAIL = 'iatools.ia@gmail.com';
-const NEW = ['headliner','quso','zebracat','wondercraft','predis','kittl','repurposeio','hypefury','higgsfield','clipchamp','taplio','recraft','gling','fliki','eklipse','rask-ai','socialblade','1of10','google-trends','morningfame','keywordseverywhere','mubert','artlist','spotify-creators','buzzsprout','kit','substack','typefully','klingai','freepik','adobe-express'];
+const NEW = ['cleanvoice','pippit','subscribr','headliner','quso','zebracat','wondercraft','predis','kittl','repurposeio','hypefury','higgsfield','clipchamp','taplio','recraft','gling','fliki','eklipse','rask-ai','socialblade','1of10','google-trends','morningfame','keywordseverywhere','mubert','artlist','spotify-creators','buzzsprout','kit','substack','typefully','klingai','freepik','adobe-express'];
 const cats = JSON.parse(fs.readFileSync('src/categories.json','utf8'));
 const tools = JSON.parse(fs.readFileSync('src/tools.json','utf8'));
 const PL = ['youtube','tiktok','instagram','podcasts','newsletters'];

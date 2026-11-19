@@ -75,3 +75,10 @@
 - udio: marcada con aviso en la descripción (descargas desactivadas desde el acuerdo con UMG, según su centro de ayuda).
 - Mejora: lista NEW de build.mjs actualizada con las herramientas agregadas desde el 22-oct (antes "Recién agregadas" mostraba solo la tanda del 21-oct).
 - Próxima rotación: índices 50–59.
+
+## Mantenimiento 19-nov-2026
+- Nuevas: Cleanvoice AI (podcasts/voz, de-pago: pago por uso o planes desde €10/mes, prueba gratis de 30 min), Pippit de CapCut (edicion/avatares/redes, freemium: plan Free), Subscribr (guiones/seo-youtube, ver-sitio: la página de precios dice "Start for $0" pero no muestra un plan gratis claro).
+- Revisadas (rotación, índices 50–59): beehiiv, grammarly, notion, buffer, hootsuite, later, metricool, vidiq, tubebuddy, spotter. Enlaces vivos (200); precios coinciden con sus páginas oficiales (freemium: beehiiv, grammarly, notion, buffer, metricool, vidiq, tubebuddy; de-pago: hootsuite, later).
+- Eliminada: Spotter Studio (cerró al público el 22-oct-2025; spotterstudio.com redirige a spotter.com, sin producto ni precios).
+- Lista NEW de build.mjs actualizada con las nuevas.
+- Próxima rotación: índices 59–68 (tras quitar spotter, empieza en looka).

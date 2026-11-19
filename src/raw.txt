@@ -57,7 +57,6 @@ later|Later|https://later.com|redes|instagram,tiktok|de-pago|Planificador visual
 metricool|Metricool|https://metricool.com|redes|instagram,tiktok,youtube|freemium|Planifica, publica y analiza tus redes en un solo lugar.
 vidiq|vidIQ|https://vidiq.com|seo-youtube|youtube|freemium|Ideas, palabras clave y analítica con IA para crecer en YouTube.
 tubebuddy|TubeBuddy|https://www.tubebuddy.com|seo-youtube|youtube|freemium|Extensión para optimizar SEO, miniaturas y pruebas A/B en YouTube.
-spotter|Spotter Studio|https://www.spotterstudio.com|seo-youtube,guiones|youtube|de-pago|Ideas y análisis de rendimiento para creadores de YouTube.
 looka|Looka|https://looka.com|branding|youtube,instagram|de-pago|Diseña logos e identidad de marca con IA.
 brandmark|Brandmark|https://brandmark.io|branding|youtube,instagram|de-pago|Generador de logos con IA.
 socialblade|Social Blade|https://socialblade.com|seo-youtube|youtube,tiktok,instagram|freemium|Estadísticas públicas y proyecciones de crecimiento de canales de YouTube, TikTok, Instagram y más.

@@ -934,21 +934,6 @@
   "description_en": "Browser extension for YouTube SEO, thumbnails, and A/B testing."
  },
  {
-  "slug": "spotter",
-  "name": "Spotter Studio",
-  "url": "https://www.spotterstudio.com",
-  "categories": [
-   "seo-youtube",
-   "guiones"
-  ],
-  "platforms": [
-   "youtube"
-  ],
-  "pricing": "ver-sitio",
-  "desc": "Ideas y análisis de rendimiento para creadores de YouTube.",
-  "description_en": "Ideas and performance insights for YouTube creators."
- },
- {
   "slug": "looka",
   "name": "Looka",
   "url": "https://looka.com",
@@ -1468,5 +1453,54 @@
   "pricing": "ver-sitio",
   "desc": "Crea videos listos para publicar a partir de una idea o guion, con voz en off, imágenes con IA y publicación automática.",
   "description_en": "Creates ready-to-post videos from an idea or script, with AI voiceover, visuals, and auto-publishing."
+ },
+ {
+  "slug": "cleanvoice",
+  "name": "Cleanvoice AI",
+  "url": "https://cleanvoice.ai",
+  "categories": [
+   "podcasts",
+   "voz"
+  ],
+  "platforms": [
+   "podcasts",
+   "youtube"
+  ],
+  "pricing": "de-pago",
+  "desc": "Limpia el audio de tu podcast: quita muletillas, silencios, sonidos de boca y ruido de fondo, y genera transcripción y notas del episodio.",
+  "description_en": "Cleans up your podcast audio by removing filler words, dead air, mouth sounds, and background noise, and generates transcripts and show notes."
+ },
+ {
+  "slug": "pippit",
+  "name": "Pippit",
+  "url": "https://www.pippit.ai",
+  "categories": [
+   "edicion",
+   "avatares",
+   "redes"
+  ],
+  "platforms": [
+   "tiktok",
+   "instagram",
+   "youtube"
+  ],
+  "pricing": "freemium",
+  "desc": "Plataforma de CapCut para crear videos, imágenes, anuncios y avatares con IA, y publicarlos y medirlos desde un solo lugar.",
+  "description_en": "CapCut-made platform to create AI videos, images, ads, and avatars, then publish them and track performance in one place."
+ },
+ {
+  "slug": "subscribr",
+  "name": "Subscribr",
+  "url": "https://subscribr.ai",
+  "categories": [
+   "guiones",
+   "seo-youtube"
+  ],
+  "platforms": [
+   "youtube"
+  ],
+  "pricing": "ver-sitio",
+  "desc": "Asistente de IA para YouTube: encuentra ideas con potencial, escribe guiones con tu estilo y propone títulos y miniaturas.",
+  "description_en": "AI assistant for YouTube that finds promising video ideas, writes scripts in your voice, and suggests titles and thumbnails."
  }
 ]
